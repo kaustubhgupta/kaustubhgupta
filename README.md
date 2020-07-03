@@ -12,3 +12,4 @@
    - [IPU Results Puller](https://ipuresultskg.herokuapp.com/)
    - [Demo Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
+   - [IPU Results TelegramBot](https://t.me/ipuBOT)

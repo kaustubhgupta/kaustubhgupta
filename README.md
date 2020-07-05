@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Kaggle & other hackathons
 - 🤔 I’m looking for help with improving my Hyperparameter Tunning.
 - 💬 Ask me about anything related to technology.
-- 📫 How to reach me: https://kaustubhgupta1828.wixsite.com/mysite
+- 📫 How to reach me: [Personal Website](https://www.kaustubhgupta.xyz)
 - ⚡ Currently deployed projects:
    - [IPU Results Puller](https://ipuresultskg.herokuapp.com/)
    - [Demo Website](https://flaskwebsitev1.herokuapp.com/)

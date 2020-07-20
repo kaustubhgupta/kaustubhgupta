@@ -13,3 +13,6 @@
    - [Demo Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
    - [IPU Results TelegramBot](https://t.me/ipuBOT)
+- ⚡ Hackathons:
+   - [Facebook Hertech (2019)](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
+   - [Hackin India (2020)](https://github.com/kaustubhgupta/HackInIndia)

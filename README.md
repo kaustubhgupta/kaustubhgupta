@@ -15,6 +15,5 @@
    - [Facebook Hertech (2019)](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
    - [Hackin India (2020)](https://github.com/kaustubhgupta/HackInIndia)     
 
-![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
 
 

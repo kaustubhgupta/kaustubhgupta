@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Personal Website](https://www.kaustubhgupta.xyz)
 - ⚡ Currently deployed projects:
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
-   - [IPU Results TelegramBot](https://t.me/ipuBOT)
+   - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
    - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
    - [Demo BLogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)

@@ -13,8 +13,9 @@
    - [Demo BLogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
 - ⚡ Hackathons:
-   - [Facebook Hertech (2019)](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
-   - [Hackin India (2020)](https://github.com/kaustubhgupta/HackInIndia)     
+   - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
+   - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
+   - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
 
 ### Visitors Count
 

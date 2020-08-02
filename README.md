@@ -16,8 +16,3 @@
    - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
    - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
    - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
-
-### Visitors Count
-
-![visitors](https://profile-counter.glitch.me/kaustubhgupta/count.svg)
-

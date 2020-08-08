@@ -14,8 +14,6 @@
 [<img align="left" alt="kaustubh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kaustubh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<br />
-
 ### Languages and tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][website]
 [<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postgresql/postgresql.png" />][website]
@@ -28,8 +26,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
-<br />
-
 ### ⚡ Latest Blog posts (Personal Website + Medium)
 <!-- BLOG-POST-LIST:START -->
 - [Building Android Apps With Python: Part -1](https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2)
@@ -39,8 +35,6 @@
 - [Friendships, Everlasting?](https://www.kaustubhgupta.xyz/post/friendships-everlasting)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ### ⚡ Currently deployed projects:
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
@@ -48,21 +42,12 @@
    - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
    - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
-   
-<br />
 
 ### ⚡ Hackathons:
    - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
    - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
    - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
    
-<br />
-
-### 🌱 Some of my nostalgic articles:
-   - [First Year of College](https://www.kaustubhgupta.xyz/post/first-year-in-maharaja-agrasen-institute-of-technology)
-   - [First Industrial Training](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)
-   - [2019 rewind](https://www.kaustubhgupta.xyz/post/2019-rewind)
-
 
 [website]: http://kaustubhgupta.xyz/
 [facebook]: https://www.facebook.com/kaustubh.gupta.1828/

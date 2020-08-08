@@ -20,3 +20,4 @@
 - 🌱 Some of my nostalgic articles:
    - [First Year of College](https://www.kaustubhgupta.xyz/post/first-year-in-maharaja-agrasen-institute-of-technology)
    - [First Industrial Training](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)
+   - [2019 rewind](https://www.kaustubhgupta.xyz/post/2019-rewind)

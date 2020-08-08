@@ -17,3 +17,6 @@
    - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
    - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
    - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
+- 🌱 Some of my nostalgic articles:
+   - [First Year of College](https://www.kaustubhgupta.xyz/post/first-year-in-maharaja-agrasen-institute-of-technology)
+   - [First Industrial Training](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)

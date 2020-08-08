@@ -32,6 +32,11 @@
 
 ### ⚡ Latest Blog posts (Personal Website + Medium)
 <!-- BLOG-POST-LIST:START -->
+- [Building Android Apps With Python: Part -1](https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2)
+- [What Happens In a Industrial Visit?](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)
+- [Analyzing #justiceforcarry Using Twitter API](https://medium.com/@kaustubhgupta1828/analyzing-justiceforcarry-using-twitter-api-ee98d669509b?source=rss-603da2b47f57------2)
+- [We Need To Talk](https://www.kaustubhgupta.xyz/post/we-need-to-talk)
+- [Friendships, Everlasting?](https://www.kaustubhgupta.xyz/post/friendships-everlasting)
 <!-- BLOG-POST-LIST:END -->
 
 <br />

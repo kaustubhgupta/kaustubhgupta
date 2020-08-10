@@ -45,6 +45,7 @@
    - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
    - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
+   - [Smart Speech Generator](https://smart-speech-gen.herokuapp.com/) (Currently highly unstable)
    - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
 <br />

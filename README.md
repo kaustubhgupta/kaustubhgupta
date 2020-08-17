@@ -14,8 +14,6 @@
 [<img align="left" alt="kaustubh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kaustubh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<br />
-
 ### Languages and tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][website]
 [<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postgresql/postgresql.png" />][website]
@@ -27,7 +25,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-<br />
 
 ### ⚡ Latest Blog posts (Personal Website + Medium)
 <!-- BLOG-POST-LIST:START -->
@@ -46,14 +43,12 @@
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
    - [Smart Speech Generator](https://smart-speech-gen.herokuapp.com/) (Currently highly unstable)
    - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
-<br />
-
+   
 ### ⚡ Hackathons:
    - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
    - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
    - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
    
-
 [website]: http://kaustubhgupta.xyz/
 [facebook]: https://www.facebook.com/kaustubh.gupta.1828/
 [twitter]: https://twitter.com/Kaustubh1828

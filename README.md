@@ -1,10 +1,10 @@
 ### ⚡ Hi there, I am [Kaustubh][website] 👋
 
-- 🔭 I’m currently working on Exploring Python
-- 🌱 I’m currently learning CNN, DNN
-- 👯 I’m looking to collaborate on Kaggle & other hackathons
-- 🤔 I’m looking for help with improving my Hyperparameter Tunning.
-- 💬 Ask me about anything related to technology.
+- 🔭 I’m currently working on Exploring Python and all it's functionalities.
+- 🌱 I’m currently learning Deep Learning Techniques.
+- 👯 I’m looking to collaborate on Kaggle & other hackathons.
+- 🤔 I’m looking for help with improving my Machine Learning Algorithms understanding.
+- 💬 Ask me about anything related to technologies, general tech around you or working of any thing involving tech.
 
 ### ⚡ Connect with me:
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

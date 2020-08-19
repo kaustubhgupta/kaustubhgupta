@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with improving my Machine Learning Algorithms understanding.
 - 💬 Ask me about anything related to technologies, general tech around you or working of any thing involving tech.
 
-### ⚡ Connect with me:
+### ⚡ Connect with me
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kaustubh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="kaustubh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -14,7 +14,7 @@
 [<img align="left" alt="kaustubh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kaustubh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br>
-### ⚡ Languages and tools:
+### ⚡ Languages and tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][website]
 [<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postgresql/postgresql.png" />][website]
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flask/flask.png" />][website]
@@ -35,7 +35,7 @@
 - [We Need To Talk](https://www.kaustubhgupta.xyz/post/we-need-to-talk)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Currently deployed projects:
+### ⚡ Currently deployed projects
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
    - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
@@ -44,13 +44,17 @@
    - [Smart Speech Generator](https://smart-speech-gen.herokuapp.com/) (Currently highly unstable)
    - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
    
-### ⚡ Hackathons:
+### ⚡ Hackathons
    - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
    - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
    - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
    
-### ⚡ Datasets on Kaggle:
+### ⚡ Datasets on Kaggle
    - [Medium Articles](https://www.kaggle.com/kaustubh18282/medium-articles-dataset-2020-edition)
+
+### ⚡ Stats
+![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
+
    
 [website]: http://kaustubhgupta.xyz/
 [facebook]: https://www.facebook.com/kaustubh.gupta.1828/

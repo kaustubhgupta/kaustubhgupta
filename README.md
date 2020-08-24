@@ -28,11 +28,10 @@
 <br>
 ### ⚡ Latest Blog posts (Personal Website + Medium)
 <!-- BLOG-POST-LIST:START -->
-- [The Untold Stories](https://www.kaustubhgupta.xyz/post/the-untold-stories)
 - [Building Android Apps With Python: Part -3](https://towardsdatascience.com/building-android-apps-with-python-part-3-89a455ee7f7c?source=rss-603da2b47f57------2)
 - [Building Android Apps With Python: Part -2](https://medium.com/swlh/building-android-apps-with-python-part-2-1d8e78ef9166?source=rss-603da2b47f57------2)
 - [Building Android Apps With Python: Part -1](https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2)
-- [What Happens In a Industrial Visit?](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)
+- [Analyzing #justiceforcarry Using Twitter API](https://medium.com/@kaustubhgupta1828/analyzing-justiceforcarry-using-twitter-api-ee98d669509b?source=rss-603da2b47f57------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Currently deployed projects

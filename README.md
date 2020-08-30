@@ -39,6 +39,7 @@
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
    - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
+   - [Music Genre Predictor](http://music-genre-predict.herokuapp.com/)
    - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
    - [Smart Speech Generator](https://smart-speech-gen.herokuapp.com/) (Currently highly unstable)

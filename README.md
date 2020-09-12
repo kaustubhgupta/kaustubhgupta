@@ -53,6 +53,10 @@
 ### ⚡ Datasets on Kaggle
    - [Medium Articles](https://www.kaggle.com/kaustubh18282/medium-articles-dataset-2020-edition)
 
+### ⚡ Services on Fiverr
+   - [Technical Blog Writing](https://www.fiverr.com/share/vrzE9W)
+   - [Any Python Program](https://www.fiverr.com/share/ErkRo7)
+
 ### ⚡ Stats
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
 

@@ -13,6 +13,7 @@
 [<img align="left" alt="kaustubh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kaustubh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kaustubh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="kaustubh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 <br>
 ### ⚡ Languages and tools
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][website]
@@ -60,6 +61,8 @@
 ### ⚡ Stats
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
 
+### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!
+
    
 [website]: http://kaustubhgupta.xyz/
 [facebook]: https://www.facebook.com/kaustubh.gupta.1828/
@@ -67,3 +70,5 @@
 [linkedin]: https://www.linkedin.com/in/kaustubh-gupta-612767ab/
 [instagram]: https://www.instagram.com/kaustubhgupta1828/
 [medium]: https://medium.com/@kaustubhgupta1828
+[hackerrank]: https://www.hackerrank.com/kaustubhgupta181
+[sourcerer]: https://sourcerer.io/kaustubhgupta

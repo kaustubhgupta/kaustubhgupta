@@ -40,6 +40,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Currently deployed projects
+   - [Ultimate Portfolio Maker: GitHub Action](https://github.com/marketplace/actions/ultimate-portfolio-maker)
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
    - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
@@ -48,11 +49,6 @@
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
    - [Smart Speech Generator](https://smart-speech-gen.herokuapp.com/) (Currently highly unstable)
    - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
-   
-### ⚡ Hackathons
-   - [Facebook Hertech (2019) by ThoughtWorks](https://github.com/kaustubhgupta/FacebookHerTechHackathon)
-   - [Hackin India (2020) by Script Foundation](https://github.com/kaustubhgupta/HackInIndia)     
-   - [Hackthehourglass (2020) by MAIT IEEE](https://github.com/kaustubhgupta/HackTheHourGlassHackathon)
    
 ### ⚡ Datasets on Kaggle
    - [Medium Articles](https://www.kaggle.com/kaustubh18282/medium-articles-dataset-2020-edition)

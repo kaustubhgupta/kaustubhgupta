@@ -61,6 +61,7 @@
 
 ### ⚡ Stats
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=kaustubhgupta&theme=monokai)
 
 ### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!
 

@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@kaustubhgupta1828, https://www.kaustubhgupta.xyz/blog-feed.xml, https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"
-          max_post_count: 7
+          max_post_count: 10

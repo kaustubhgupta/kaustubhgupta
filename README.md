@@ -35,6 +35,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Currently deployed projects
+   - [WhatsApp Chats Analyser](https://whatsapp-analyzing.herokuapp.com/)
    - [Ultimate Portfolio Maker: GitHub Action](https://github.com/marketplace/actions/ultimate-portfolio-maker) : Here is the resultant [portfolio](https://kaustubhgupta.github.io/)!
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)

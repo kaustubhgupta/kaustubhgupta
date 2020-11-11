@@ -44,13 +44,6 @@
    - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
    - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
-   
-### ⚡ Datasets on Kaggle
-   - [Medium Articles](https://www.kaggle.com/kaustubh18282/medium-articles-dataset-2020-edition)
-
-### ⚡ Services on Fiverr
-   - [Technical Blog Writing](https://www.fiverr.com/share/vrzE9W)
-   - [Any Python Program](https://www.fiverr.com/share/ErkRo7)
 
 ### ⚡ Youtube Videos
    - [College Vlog](https://www.youtube.com/watch?v=SWRmOdwUYLQ)

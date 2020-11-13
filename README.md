@@ -22,6 +22,7 @@
 
 ### ⚡ Latest Blog posts (Personal Website + Medium + Analytics India Magazine)
 <!-- BLOG-POST-LIST:START -->
+- [Is Family Group That Bad? Results Will Shock You](https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2)
 - [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
 - [GitHub Action That Automates Portfolio Generation](https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc?source=rss-603da2b47f57------2)
 - [How Pandemic Has Affected College Scores: Analysis On Real Dataset](https://towardsdatascience.com/how-pandemic-has-affected-college-scores-analysis-on-real-dataset-e6cea8c469b1?source=rss-603da2b47f57------2)
@@ -31,7 +32,6 @@
 - [Building Android Apps With Python: Part -1](https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2)
 - [What Happens In a Industrial Visit?](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)
 - [Analyzing #justiceforcarry Using Twitter API](https://medium.com/@kaustubhgupta1828/analyzing-justiceforcarry-using-twitter-api-ee98d669509b?source=rss-603da2b47f57------2)
-- [We Need To Talk](https://www.kaustubhgupta.xyz/post/we-need-to-talk)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Currently deployed projects

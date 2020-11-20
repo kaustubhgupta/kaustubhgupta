@@ -49,9 +49,9 @@
    - [College Vlog](https://www.youtube.com/watch?v=SWRmOdwUYLQ)
 
 ### ⚡ Stats
-![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhgupta" alt="Github Streak Stats">
+<p align="center">
+<img src="https://metrics.lecoq.io/kaustubhgupta?pagespeed=1&followup=1&isocalendar=1" alt="Github Streak Stats">
+</p>
 
 ### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!
 

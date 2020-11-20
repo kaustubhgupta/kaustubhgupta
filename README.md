@@ -51,6 +51,8 @@
 ### ⚡ Stats
 ![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhgupta" alt="Github Streak Stats">
+
 ### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!
 
    

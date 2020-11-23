@@ -22,7 +22,6 @@
 
 ### ⚡ Latest Blog posts (Personal Website + Medium + Analytics India Magazine)
 <!-- BLOG-POST-LIST:START -->
-- [Predicting Employee Attrition using Orange(.ows) Visual Programming Software](https://www.analyticsvidhya.com/blog/2020/11/predicting-employee-attrition-using-orange-ows-visual-programming-software/)
 - [Run Python Code on Websites: Exploring Brython](https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f?source=rss-603da2b47f57------2)
 - [Is Family Group That Bad? Results Will Shock You](https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2)
 - [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
@@ -32,6 +31,7 @@
 - [Building Android Apps With Python: Part -3](https://towardsdatascience.com/building-android-apps-with-python-part-3-89a455ee7f7c?source=rss-603da2b47f57------2)
 - [Building Android Apps With Python: Part -2](https://medium.com/swlh/building-android-apps-with-python-part-2-1d8e78ef9166?source=rss-603da2b47f57------2)
 - [Building Android Apps With Python: Part -1](https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2)
+- [What Happens In a Industrial Visit?](https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Currently deployed projects

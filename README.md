@@ -21,17 +21,17 @@
 <br>
 
 ### ⚡ Latest Blog posts (Personal Website + Medium + Analytics India Magazine + Analytics Vidhya)
-<!-- BLOG-POST-LIST:START -->[FastAPI: The Right Replacement For Flask?](https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/) :Wed Nov 25 2020 8:42 AM 
-[Run Python Code on Websites: Exploring Brython](https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f?source=rss-603da2b47f57------2) :Sun Nov 15 2020 10:41 PM 
-[Is Family Group That Bad? Results Will Shock You](https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2) :Thu Nov 12 2020 9:08 PM 
-[Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python) :Mon Nov 02 2020 12:30 PM 
-[GitHub Action That Automates Portfolio Generation](https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc?source=rss-603da2b47f57------2) :Mon Oct 12 2020 9:48 PM 
-[How Pandemic Has Affected College Scores: Analysis On Real Dataset](https://towardsdatascience.com/how-pandemic-has-affected-college-scores-analysis-on-real-dataset-e6cea8c469b1?source=rss-603da2b47f57------2) :Tue Sep 29 2020 10:41 PM 
-[The Untold Stories](https://www.kaustubhgupta.xyz/post/the-untold-stories) :Mon Aug 24 2020 12:19 PM 
-[Building Android Apps With Python: Part -3](https://towardsdatascience.com/building-android-apps-with-python-part-3-89a455ee7f7c?source=rss-603da2b47f57------2) :Wed Aug 19 2020 4:44 PM 
-[Building Android Apps With Python: Part -2](https://medium.com/swlh/building-android-apps-with-python-part-2-1d8e78ef9166?source=rss-603da2b47f57------2) :Tue Aug 11 2020 5:18 AM 
-[Building Android Apps With Python: Part -1](https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2) :Wed Aug 05 2020 6:43 PM 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+ <a href=https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/>FastAPI: The Right Replacement For Flask?</a>: Wed Nov 25 2020 8:42 AM <br>
+ <a href=https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f?source=rss-603da2b47f57------2>Run Python Code on Websites: Exploring Brython</a>: Sun Nov 15 2020 10:41 PM <br>
+ <a href=https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2>Is Family Group That Bad? Results Will Shock You</a>: Thu Nov 12 2020 9:08 PM <br>
+ <a href=https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python>Deploying Machine Learning Models In Android Apps Using Python</a>: Mon Nov 02 2020 12:30 PM <br>
+ <a href=https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc?source=rss-603da2b47f57------2>GitHub Action That Automates Portfolio Generation</a>: Mon Oct 12 2020 9:48 PM <br>
+ <a href=https://towardsdatascience.com/how-pandemic-has-affected-college-scores-analysis-on-real-dataset-e6cea8c469b1?source=rss-603da2b47f57------2>How Pandemic Has Affected College Scores: Analysis On Real Dataset</a>: Tue Sep 29 2020 10:41 PM <br>
+ <a href=https://www.kaustubhgupta.xyz/post/the-untold-stories>The Untold Stories</a>: Mon Aug 24 2020 12:19 PM <br>
+ <a href=https://towardsdatascience.com/building-android-apps-with-python-part-3-89a455ee7f7c?source=rss-603da2b47f57------2>Building Android Apps With Python: Part -3</a>: Wed Aug 19 2020 4:44 PM <br>
+ <a href=https://medium.com/swlh/building-android-apps-with-python-part-2-1d8e78ef9166?source=rss-603da2b47f57------2>Building Android Apps With Python: Part -2</a>: Tue Aug 11 2020 5:18 AM <br>
+ <a href=https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2>Building Android Apps With Python: Part -1</a>: Wed Aug 05 2020 6:43 PM <br><!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Currently deployed projects
    - [WhatsApp Chats Analyser](https://whatsapp-analyzing.herokuapp.com/)

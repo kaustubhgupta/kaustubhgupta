@@ -39,7 +39,7 @@
 
 ### ⚡ Stats
 <p align="center">
-<img src="https://metrics.lecoq.io/kaustubhgupta?pagespeed=1&followup=1&isocalendar=1" alt="Github Streak Stats">
+<img src="https://metrics.lecoq.io/kaustubhgupta?followup=1&isocalendar=1" alt="Github Streak Stats">
 </p>
 
 ### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!

@@ -15,9 +15,8 @@ jobs:
         with:
           feed_list: "https://www.analyticsvidhya.com/blog/author/kaustubh1828/feed/, https://medium.com/feed/@kaustubhgupta1828, https://www.kaustubhgupta.xyz/blog-feed.xml, https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"
           max_post_count: 10
-          template: "$newline <a href=$url>$title</a>: $date <br>"
+          template: "$newline <p><a href=$url > $title </a>: $date </p><br>"
           gh_token: ${{ secrets.TOKEN }}
-          description_max_length: 40
           commit_message: Updated latest blogs
           committer_username: kaustubhgupta
           committer_email: ${{ secrets.EMAIL }}

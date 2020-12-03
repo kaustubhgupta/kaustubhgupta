@@ -21,16 +21,18 @@
 ### ⚡ Latest blog posts (Personal Website + Medium + Analytics India Magazine + Analytics Vidhya)
 <!-- BLOG-POST-LIST:START --><p><a href=https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/ > FastAPI: The Right Replacement For Flask? </a>: Wed Nov 25 2020 8:42 AM </p><p><a href=https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f?source=rss-603da2b47f57------2 > Run Python Code on Websites: Exploring Brython </a>: Sun Nov 15 2020 10:41 PM </p><p><a href=https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2 > Is Family Group That Bad? Results Will Shock You </a>: Thu Nov 12 2020 9:08 PM </p><p><a href=https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python > Deploying Machine Learning Models In Android Apps Using Python </a>: Mon Nov 02 2020 12:30 PM </p><p><a href=https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc?source=rss-603da2b47f57------2 > GitHub Action That Automates Portfolio Generation </a>: Mon Oct 12 2020 9:48 PM </p><p><a href=https://towardsdatascience.com/how-pandemic-has-affected-college-scores-analysis-on-real-dataset-e6cea8c469b1?source=rss-603da2b47f57------2 > How Pandemic Has Affected College Scores: Analysis On Real Dataset </a>: Tue Sep 29 2020 10:41 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/the-untold-stories > The Untold Stories </a>: Mon Aug 24 2020 12:19 PM </p><p><a href=https://towardsdatascience.com/building-android-apps-with-python-part-3-89a455ee7f7c?source=rss-603da2b47f57------2 > Building Android Apps With Python: Part -3 </a>: Wed Aug 19 2020 4:44 PM </p><p><a href=https://medium.com/swlh/building-android-apps-with-python-part-2-1d8e78ef9166?source=rss-603da2b47f57------2 > Building Android Apps With Python: Part -2 </a>: Tue Aug 11 2020 5:18 AM </p><p><a href=https://towardsdatascience.com/building-android-apps-with-python-part-1-603820bebde8?source=rss-603da2b47f57------2 > Building Android Apps With Python: Part -1 </a>: Wed Aug 05 2020 6:43 PM </p><!-- BLOG-POST-LIST:END -->
 
-### ⚡ Currently deployed projects
+### ⚡ Currently deployed projects (All are hyperlinks to either source code or direct deployment)
    - [WhatsApp Chats Analyser](https://whatsapp-analyzing.herokuapp.com/)
    - [Ultimate Portfolio Maker: GitHub Action](https://github.com/marketplace/actions/ultimate-portfolio-maker)
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
    - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
+   - [KivyML Android App](https://appetize.io/app/a8tez5nc93qyb9hhzj3k3y0ggc?device=nexus5&scale=75&orientation=portrait&osVersion=11)
    - [Music Genre Predictor](http://music-genre-predict.herokuapp.com/)
    - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)
    - [Taskify](https://taskifyhackindia.herokuapp.com/)
-   - [BSF App](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+   - [BSF AndroidApp](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+   
 
 ### ⚡ Youtube Videos
    - [College Vlog](https://www.youtube.com/watch?v=SWRmOdwUYLQ)

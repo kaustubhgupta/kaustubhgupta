@@ -43,7 +43,7 @@
 </p>
 
 ### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!
-or
+### or
 ### Checkout my [GitHub Hosted](https://kaustubhgupta.github.io/) portfolio!
 
    

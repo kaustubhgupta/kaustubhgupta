@@ -50,7 +50,7 @@
 [website]: http://kaustubhgupta.xyz/
 [facebook]: https://www.facebook.com/kaustubh.gupta.1828/
 [twitter]: https://twitter.com/Kaustubh1828
-[linkedin]: https://www.linkedin.com/in/kaustubh-gupta-612767ab/
+[linkedin]: https://www.linkedin.com/in/kaustubh-gupta/
 [instagram]: https://www.instagram.com/kaustubhgupta1828/
 [medium]: https://medium.com/@kaustubhgupta1828
 [hackerrank]: https://www.hackerrank.com/kaustubhgupta181

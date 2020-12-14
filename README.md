@@ -26,7 +26,7 @@
    - [Ultimate Portfolio Maker: GitHub Action](https://github.com/marketplace/actions/ultimate-portfolio-maker)
    - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
    - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
-   - [IPU Results Android App](https://github.com/kaustubhgupta/IPUResultAndroidApp)
+   - [IPU Results Android App](https://appetize.io/app/rva3hp233x5ccxgn7yjkwetmem?device=nexus5&scale=75&orientation=portrait&osVersion=11)
    - [KivyML Android App](https://appetize.io/app/a8tez5nc93qyb9hhzj3k3y0ggc?device=nexus5&scale=75&orientation=portrait&osVersion=11)
    - [Music Genre Predictor](http://music-genre-predict.herokuapp.com/)
    - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)

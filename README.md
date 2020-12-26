@@ -21,17 +21,17 @@
 ### ⚡ Latest blog posts (Personal Website + Medium + Analytics India Magazine + Analytics Vidhya)
 <!-- BLOG-POST-LIST:START --><p><a href=https://towardsdatascience.com/rebuilding-my-7-python-projects-8c629079c8e6?source=rss-603da2b47f57------2 > Rebuilding My 7 Python Projects </a>: Tue Dec 22 2020 7:54 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/the-secret-santa > The Secret Santa </a>: Wed Dec 16 2020 6:30 PM </p><p><a href=https://towardsdatascience.com/3-ways-to-convert-python-app-into-apk-77f4c9cd55af?source=rss-603da2b47f57------2 > 3 Ways to Convert Python App into APK </a>: Thu Dec 03 2020 9:52 PM </p><p><a href=https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/ > FastAPI: The Right Replacement For Flask? </a>: Wed Nov 25 2020 8:42 AM </p><p><a href=https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f?source=rss-603da2b47f57------2 > Run Python Code on Websites: Exploring Brython </a>: Sun Nov 15 2020 10:41 PM </p><p><a href=https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2 > Is Family Group That Bad? Results Will Shock You </a>: Thu Nov 12 2020 9:08 PM </p><p><a href=https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/ > Deploying Machine Learning Models In Android Apps Using Python </a>: Mon Nov 02 2020 12:30 PM </p><p><a href=https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc?source=rss-603da2b47f57------2 > GitHub Action That Automates Portfolio Generation </a>: Mon Oct 12 2020 9:48 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/the-untold-stories > The Untold Stories </a>: Mon Aug 24 2020 12:19 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit > What Happens In a Industrial Visit? </a>: Fri Jun 12 2020 7:40 AM </p><!-- BLOG-POST-LIST:END -->
 
-### ⚡ Currently deployed projects (All are hyperlinks to either source code or direct deployment)
-   - [WhatsApp Chats Analyser](https://whatsapp-analyzing.herokuapp.com/)
-   - [Ultimate Portfolio Maker: GitHub Action](https://github.com/marketplace/actions/ultimate-portfolio-maker)
-   - [IPU Results Website](https://ipuresultskg.herokuapp.com/)
-   - [IPU Results TelegramBot](https://github.com/kaustubhgupta/TelegramBot-IPU)
-   - [IPU Results Android App](https://appetize.io/app/rva3hp233x5ccxgn7yjkwetmem?device=nexus5&scale=75&orientation=portrait&osVersion=11)
-   - [KivyML Android App](https://appetize.io/app/a8tez5nc93qyb9hhzj3k3y0ggc?device=nexus5&scale=75&orientation=portrait&osVersion=11)
-   - [Music Genre Predictor](http://music-genre-predict.herokuapp.com/)
-   - [Sample Blogging Website](https://flaskwebsitev1.herokuapp.com/)
-   - [Taskify](https://taskifyhackindia.herokuapp.com/)
-   - [BSF AndroidApp](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+### ⚡ Projects
+   - WhatsApp Chats Analyser ([Tryout Link](https://whatsapp-analyzing.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser))
+   - Ultimate Portfolio Maker: GitHub Action ([Tryout Link](https://github.com/marketplace/actions/ultimate-portfolio-maker) | [Source Code](https://github.com/kaustubhgupta/PortfolioFy))
+   - IPU Results Website ([Tryout Link](https://ipuresultskg.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/IPU-Website))
+   - IPU Results TelegramBot ([Tryout Link](https://t.me/ipuBOT) | [Source Code](https://github.com/kaustubhgupta/TelegramBot-IPU))
+   - IPU Results Android App ([Tryout Link](https://appetize.io/app/rva3hp233x5ccxgn7yjkwetmem?device=nexus5&scale=75&orientation=portrait&osVersion=11) | [Source Code](https://github.com/kaustubhgupta/IPUResultAndroidApp))
+   - KivyML Android App ([Tryout Link](https://appetize.io/app/a8tez5nc93qyb9hhzj3k3y0ggc?device=nexus5&scale=75&orientation=portrait&osVersion=11+) | [Source Code](https://github.com/kaustubhgupta/KivyMLApp))
+   - Music Genre Predictor ([Tryout Link](http://music-genre-predict.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/Technocolab-Final-Project))
+   - Sample Blogging Website ([Tryout Link](https://flaskwebsitev1.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/FlaskWebsite))
+   - Taskify ([Tryout Link](https://taskifyhackindia.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/HackInIndia))
+   - BSF AndroidApp ([Tryout Link](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1) | [Source Code](https://github.com/kaustubhgupta/FacebookHerTechHackathon))
    
 
 ### ⚡ Youtube Videos

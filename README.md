@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently working on Exploring Python and all it's functionalities.
 - 🌱 I’m currently learning how to work according to SDLC
-- 👯 I’m looking to collaborate on Hackathons or maybe a big project!
+- 👯 I’m looking to collaborate on Hackathons or maybe a big real world project!
 - 🤔 I’m looking for help with improving my understanding of Machine Learning Algorithms and DSA!
 - 💬 Ask me about anything related to working of anything involving tech.
+- ⚡ 100k+ views on Medium Blogs 🔥🔥
 
 ### ⚡ Connect with me
 [<img align="left" alt="kaustubh | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -42,8 +43,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true">
 </p>
 
-### Checkout my [Sourcerer](https://sourcerer.io/kaustubhgupta) profile!
-### or
 ### Checkout my [GitHub Hosted](https://kaustubhgupta.github.io/) portfolio!
 
    

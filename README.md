@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true">
 
 - 🔭 I’m currently working on Exploring Python and all it's functionalities.
 - 🌱 I’m currently learning how to work according to SDLC

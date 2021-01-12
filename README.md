@@ -23,35 +23,20 @@
 <!-- BLOG-POST-LIST:START --><p><a href=https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b?source=rss-603da2b47f57------2 > Build Dashboards in Less Than 10 Lines of Code! </a>: Sun Dec 27 2020 11:00 PM </p><p><a href=https://towardsdatascience.com/rebuilding-my-7-python-projects-8c629079c8e6?source=rss-603da2b47f57------2 > Rebuilding My 7 Python Projects </a>: Tue Dec 22 2020 7:54 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/the-secret-santa > The Secret Santa </a>: Wed Dec 16 2020 6:30 PM </p><p><a href=https://towardsdatascience.com/3-ways-to-convert-python-app-into-apk-77f4c9cd55af?source=rss-603da2b47f57------2 > 3 Ways to Convert Python App into APK </a>: Thu Dec 03 2020 9:52 PM </p><p><a href=https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/ > FastAPI: The Right Replacement For Flask? </a>: Wed Nov 25 2020 8:42 AM </p><p><a href=https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f?source=rss-603da2b47f57------2 > Run Python Code on Websites: Exploring Brython </a>: Sun Nov 15 2020 10:41 PM </p><p><a href=https://towardsdatascience.com/is-family-group-that-bad-results-will-shock-you-573f64e194be?source=rss-603da2b47f57------2 > Is Family Group That Bad? Results Will Shock You </a>: Thu Nov 12 2020 9:08 PM </p><p><a href=https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/ > Deploying Machine Learning Models In Android Apps Using Python </a>: Mon Nov 02 2020 12:30 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/the-untold-stories > The Untold Stories </a>: Mon Aug 24 2020 12:19 PM </p><p><a href=https://www.kaustubhgupta.xyz/post/what-happens-in-a-industrial-visit > What Happens In a Industrial Visit? </a>: Fri Jun 12 2020 7:40 AM </p><!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Projects
-   - WhatsApp Chats Analyser ([Tryout Link](https://whatsapp-analyzing.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser))
-   - Ultimate Portfolio Maker: GitHub Action ([Tryout Link](https://github.com/marketplace/actions/ultimate-portfolio-maker) | [Source Code](https://github.com/kaustubhgupta/PortfolioFy))
-   - IPU Results Website ([Tryout Link](https://ipuresultskg.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/IPU-Website))
-   - IPU Results TelegramBot ([Tryout Link](https://t.me/ipuBOT) | [Source Code](https://github.com/kaustubhgupta/TelegramBot-IPU))
-   - IPU Results Android App ([Tryout Link](https://appetize.io/app/rva3hp233x5ccxgn7yjkwetmem?device=nexus5&scale=75&orientation=portrait&osVersion=11) | [Source Code](https://github.com/kaustubhgupta/IPUResultAndroidApp))
-   - KivyML Android App ([Tryout Link](https://appetize.io/app/a8tez5nc93qyb9hhzj3k3y0ggc?device=nexus5&scale=75&orientation=portrait&osVersion=11+) | [Source Code](https://github.com/kaustubhgupta/KivyMLApp))
-   - Music Genre Predictor ([Tryout Link](http://music-genre-predict.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/Technocolab-Final-Project))
-   - Sample Blogging Website ([Tryout Link](https://flaskwebsitev1.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/FlaskWebsite))
-   - Taskify ([Tryout Link](https://taskifyhackindia.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/HackInIndia))
-   - BSF AndroidApp ([Tryout Link](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1) | [Source Code](https://github.com/kaustubhgupta/FacebookHerTechHackathon))
-   
+   - WhatsApp Chats Analyser ([Deployed/Final Product](https://whatsapp-analyzing.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser))
+   - Ultimate Portfolio Maker: GitHub Action ([Marketplace Link](https://github.com/marketplace/actions/ultimate-portfolio-maker) | [Source Code](https://github.com/kaustubhgupta/PortfolioFy) | [Sample](https://kaustubhgupta.github.io/))
+   - IPU Results Website ([Deployed/Final Product](https://ipuresultskg.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/IPU-Website))
+   - IPU Results TelegramBot ([Deployed/Final Product](https://t.me/ipuBOT) | [Source Code](https://github.com/kaustubhgupta/TelegramBot-IPU))
+   - IPU Results Android App ([Deployed/Final Product](https://appetize.io/app/rva3hp233x5ccxgn7yjkwetmem?device=nexus5&scale=75&orientation=portrait&osVersion=11) | [Source Code](https://github.com/kaustubhgupta/IPUResultAndroidApp))
+   - KivyML Android App ([Deployed/Final Product](https://appetize.io/app/a8tez5nc93qyb9hhzj3k3y0ggc?device=nexus5&scale=75&orientation=portrait&osVersion=11+) | [Source Code](https://github.com/kaustubhgupta/KivyMLApp))
+   - Music Genre Predictor ([Deployed/Final Product](http://music-genre-predict.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/Technocolab-Final-Project))
+   - Sample Blogging Website ([Deployed/Final Product](https://flaskwebsitev1.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/FlaskWebsite))
+   - Taskify ([Deployed/Final Product](https://taskifyhackindia.herokuapp.com/) | [Source Code](https://github.com/kaustubhgupta/HackInIndia))
+   - BSF AndroidApp ([Deployed/Final Product](https://appetize.io/app/6bcy1hx8p9r2060cn4amcuv43m?device=nexus5&scale=75&orientation=portrait&osVersion=8.1) | [Source Code](https://github.com/kaustubhgupta/FacebookHerTechHackathon))
 
-### ⚡ Youtube Videos
-   - [College Vlog](https://www.youtube.com/watch?v=SWRmOdwUYLQ)
-
-### ⚡ Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=radical&count_private=true">
-</p>
-
-### Checkout my [GitHub Hosted](https://kaustubhgupta.github.io/) portfolio!
-
-   
 [website]: http://kaustubhgupta.xyz/
 [facebook]: https://www.facebook.com/kaustubh.gupta.1828/
 [twitter]: https://twitter.com/Kaustubh1828
 [linkedin]: https://www.linkedin.com/in/kaustubh-gupta/
 [instagram]: https://www.instagram.com/kaustubhgupta1828/
 [medium]: https://medium.com/@kaustubhgupta1828
-[hackerrank]: https://www.hackerrank.com/kaustubhgupta181
-[sourcerer]: https://sourcerer.io/kaustubhgupta
-[kaggle]: https://www.kaggle.com/kaustubh18282

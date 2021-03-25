@@ -20,14 +20,3 @@ jobs:
           commit_message: Updated latest blogs
           committer_username: kaustubhgupta
           committer_email: ${{ secrets.EMAIL }}
-  
-  update-readme-with-projects:
-    name: Update this repo's README with latest project updates
-    runs-on: ubuntu-latest
-    steps:
-      - uses: kaustubhgupta/readme-projects-display@master
-        with:
-          gh_token: ${{ secrets.TOKEN }}
-        
-    
-

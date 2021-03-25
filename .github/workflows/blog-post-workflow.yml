@@ -25,9 +25,10 @@ jobs:
     name: Update this repo's README with latest project updates
     runs-on: ubuntu-latest
     steps:
-      -uses: kaustubhgupta/readme-projects-display@main
+      - uses: actions/checkout@v2
+      - uses: kaustubhgupta/readme-projects-display@main
         with:
-           gh_token: ${{ secrets.TOKEN }}
+          gh_token: ${{ secrets.TOKEN }}
         
     
 

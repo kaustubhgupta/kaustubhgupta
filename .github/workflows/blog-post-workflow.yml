@@ -24,5 +24,10 @@ jobs:
   update-readme-with-projects:
     name: Update this repo's README with latest project updates
     runs-on: ubuntu-latest
+    steps:
+      -uses: kaustubhgupta/readme-projects-display@main
+        with:
+           gh_token: ${{ secrets.TOKEN }}
+        
     
 

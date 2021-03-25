@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Updaters
 on:
   schedule:
     # Runs at the end of every day
@@ -20,3 +20,9 @@ jobs:
           commit_message: Updated latest blogs
           committer_username: kaustubhgupta
           committer_email: ${{ secrets.EMAIL }}
+  
+  update-readme-with-projects:
+    name: Update this repo's README with latest project updates
+    runs-on: ubuntu-latest
+    
+

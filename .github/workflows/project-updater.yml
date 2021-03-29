@@ -1,0 +1,15 @@
+name: Updaters
+on:
+  schedule:
+    # Runs at the end of every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-projects:
+    name: Update this repo's README with latest project updates
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: kaustubhgupta/readme-projects-display@master
+        with:
+          gh_token: ${{ secrets.TOKEN }}

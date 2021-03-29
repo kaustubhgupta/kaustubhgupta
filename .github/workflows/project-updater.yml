@@ -1,4 +1,4 @@
-name: Updaters
+name: Project Updater
 on:
   schedule:
     # Runs at the end of every day

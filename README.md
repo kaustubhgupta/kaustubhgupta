@@ -13,7 +13,7 @@
 ## ⚡ Projects
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) 81⭐ (🔥 Dynamically Self Updating Portfolio GitHub Actio...) 
-* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) 13⭐ (This Web App gives a detailed report about the Wha...) 
+* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) 14⭐ (This Web App gives a detailed report about the Wha...) 
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) 13⭐ (This is an android app that has been backed using ...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) 6⭐ (🔥 Display your projects information on your profil...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) 6⭐ (This is a very basic approch to get the lyrics of ...) 

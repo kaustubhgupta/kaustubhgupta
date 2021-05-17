@@ -13,3 +13,4 @@ jobs:
       - uses: kaustubhgupta/readme-projects-display@master
         with:
           gh_token: ${{ secrets.TOKEN }}
+          max_repo_description: 60

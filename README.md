@@ -21,7 +21,7 @@
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 1** forks (The app fetches the data from the backend API and ...) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 3** forks (This was the analysis from my side. I have tried t...) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **4⭐, 2** forks (This repository contains the final project of the ...) 
-* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **3⭐, 1** forks (IPU Results Portal, the best getaway to obtain res...) 
+* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **3⭐, 2** forks (IPU Results Portal, the best getaway to obtain res...) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **3⭐, 1** forks (This is a blogging website build with Python as ba...) 
 * [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are p...)<!-- PROJECTS END -->
    

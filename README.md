@@ -12,18 +12,18 @@
 
 ## ⚡ Projects
 <!-- PROJECTS START -->
-* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **96⭐, 21** forks (🔥 Dynamically Self Updating Portfolio GitHub Actio...) 
-* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **23⭐, 10** forks (This Web App gives a detailed report about the Wha...) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **15⭐, 15** forks (This is an android app that has been backed using ...) 
-* [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **13⭐, 7** forks (This is a very basic approch to get the lyrics of ...) 
-* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **7⭐, 2** forks (This bot receives the user inputs via webhook, mak...) 
-* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **7⭐, 1** forks (🔥 Display your projects information on your profil...) 
-* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 1** forks (The app fetches the data from the backend API and ...) 
-* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 3** forks (This was the analysis from my side. I have tried t...) 
-* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **4⭐, 2** forks (This repository contains the final project of the ...) 
-* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **3⭐, 2** forks (IPU Results Portal, the best getaway to obtain res...) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **3⭐, 1** forks (This is a blogging website build with Python as ba...) 
-* [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are p...)<!-- PROJECTS END -->
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **97⭐, 21** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
+* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **23⭐, 10** forks (This Web App gives a detailed report about the WhatsApp Grou...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **15⭐, 15** forks (This is an android app that has been backed using Kivy and K...) 
+* [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **13⭐, 7** forks (This is a very basic approch to get the lyrics of the song p...) 
+* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **7⭐, 2** forks (This bot receives the user inputs via webhook, makes backed ...) 
+* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **7⭐, 1** forks (🔥 Display your projects information on your profile README) 
+* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 1** forks (The app fetches the data from the backend API and then it is...) 
+* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 3** forks (This was the analysis from my side. I have tried to analyze ...) 
+* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **4⭐, 2** forks (This repository contains the final project of the Technocola...) 
+* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **3⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
+* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **3⭐, 1** forks (This is a blogging website build with Python as backend, pop...) 
+* [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are present. Al...)<!-- PROJECTS END -->
    
 ## ⚡ Latest blog posts
 **KDNuggets:**

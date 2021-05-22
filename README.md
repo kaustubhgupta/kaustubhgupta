@@ -40,5 +40,6 @@
   <a href="https://www.instagram.com/kaustubhgupta1828/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/kaustubh.gupta.1828/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://medium.com/@kaustubhgupta1828"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="http://kaustubhgupta.xyz/"><img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="http://kaustubhgupta.xyz/"><img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=Website" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://kaustubhgupta.github.io/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>

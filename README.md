@@ -20,7 +20,7 @@
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **7⭐, 2** forks (This bot receives the user inputs via webhook, makes backed ...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 1** forks (The app fetches the data from the backend API and then it is...) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 4** forks (This was the analysis from my side. I have tried to analyze ...) 
-* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **4⭐, 2** forks (This repository contains the final project of the Technocola...) 
+* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **4⭐, 2** forks (This is the final project made during my internship in Techn...) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **3⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **3⭐, 1** forks (This is a blogging website build with Python as backend, pop...) 
 * [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are present. Al...)<!-- PROJECTS END -->

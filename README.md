@@ -3,12 +3,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh's Stats">
 </p>
 
-- 🔭 I’m currently working on Exploring Python and all it's functionalities.
+- 🔭 I’m currently working on **Exploring Python** and all it's functionalities.
 - 🌱 I’m currently learning how to work according to SDLC
-- 👯 I’m looking to collaborate on Hackathons or maybe a big real world project!
-- 🤔 I’m looking for help with improving my understanding of Machine Learning Algorithms and DSA!
-- 💬 Ask me about anything related to working of anything involving tech.
-- ⚡ 240k+ views on Medium Blogs 🔥🔥
+- 👯 I’m looking to **collaborate** on Hackathons or maybe a big real world project!
+- 🤔 I’m looking for help with improving my understanding of **Machine Learning Algorithms** and DSA!
+- 💬 Ask me about anything related to working of anything **involving tech**.
+- ⚡ 🔥🔥 **240k+ views on Medium Blogs** 🔥🔥
 
 ## ⚡ Projects
 <!-- PROJECTS START -->

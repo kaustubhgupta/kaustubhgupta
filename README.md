@@ -23,8 +23,7 @@
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **4⭐, 2** forks (This is the final project made during my internship in Techn...) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **3⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **3⭐, 1** forks (This is a blogging website build with Python as backend, pop...) 
-* [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are present. Al...) 
-* [blog](https://github.com/kaustubhgupta/blog) **1⭐, 0** forks (All my nontech articles that were published in Wix will are ...)<!-- PROJECTS END -->
+* [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are present. Al...)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 **Master List**

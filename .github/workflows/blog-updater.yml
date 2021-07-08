@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.analyticsvidhya.com/blog/author/kaustubh1828/feed/, https://medium.com/feed/@kaustubhgupta1828, https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"
+          feed_list: "https://blog.kaustubhgupta.me/feed.xml, https://www.analyticsvidhya.com/blog/author/kaustubh1828/feed/, https://medium.com/feed/@kaustubhgupta1828, https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"
           max_post_count: 10
           template: "<p><a href=$url > $title </a>: $date </p>"
           gh_token: ${{ secrets.TOKEN }}

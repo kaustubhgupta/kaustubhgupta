@@ -26,6 +26,11 @@
 * [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are present. Al...)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
+
+**Non Tech Blogs**
+
+[blog.kaustubhgupta.me](https://blog.kaustubhgupta.me/)
+
 **Master List**
 <p><a href="https://medium.com/@kaustubhgupta1828/all-my-articles-under-one-hood-f1ab2e5eac89"> All My Articles Under One Hood! </a></p>
 

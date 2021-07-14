@@ -14,7 +14,7 @@
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **96⭐, 21** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **27⭐, 11** forks (This Web App gives a detailed report about the WhatsApp Grou...) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **20⭐, 18** forks (This is an android app that has been backed using Kivy and K...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **20⭐, 19** forks (This is an android app that has been backed using Kivy and K...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **16⭐, 7** forks (This is a very basic approach to get the lyrics of the song ...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **9⭐, 2** forks (🔥 Display your projects information on your profile README) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **8⭐, 2** forks (This bot receives the user inputs via webhook, makes backed ...) 

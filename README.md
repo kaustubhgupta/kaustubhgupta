@@ -8,7 +8,7 @@
 - 👯 I’m looking to **collaborate** on Hackathons or maybe a big real world project!
 - 🤔 I’m looking for help with improving my understanding of **Machine Learning Algorithms** and DSA!
 - 💬 Ask me about anything related to working of anything **involving tech**.
-- 🔥🔥 **270k+ views on Medium Blogs** 🔥🔥
+- 🔥🔥 **285k+ views on Medium Blogs** 🔥🔥
 
 ## ⚡ Projects
 <!-- PROJECTS START -->

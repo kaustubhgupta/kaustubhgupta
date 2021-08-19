@@ -12,12 +12,12 @@
 
 ## ⚡ Projects
 <!-- PROJECTS START -->
-* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **95⭐, 22** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **95⭐, 23** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **27⭐, 11** forks (This Web App gives a detailed report about the WhatsApp Grou...) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **25⭐, 20** forks (This is an android app that has been backed using Kivy and K...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **25⭐, 21** forks (This is an android app that has been backed using Kivy and K...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **17⭐, 7** forks (This is a very basic approach to get the lyrics of the song ...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **9⭐, 2** forks (🔥 Display your projects information on your profile README) 
-* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **8⭐, 2** forks (This bot receives the user inputs via webhook, makes backed ...) 
+* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **8⭐, 3** forks (This bot receives the user inputs via webhook, makes backed ...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 2** forks (The app fetches the data from the backend API and then it is...) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **5⭐, 1** forks (This is a blogging website build with Python as backend, pop...) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 4** forks (This was the analysis from my side. I have tried to analyze ...) 

@@ -14,17 +14,14 @@
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **94⭐, 23** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **28⭐, 11** forks (This Web App gives a detailed report about the WhatsApp Grou...) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **26⭐, 22** forks (This is an android app that has been backed using Kivy and K...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **26⭐, 22** forks (The repository host the API for the ML model via FastAPI, Fl...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **18⭐, 7** forks (This is a very basic approach to get the lyrics of the song ...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **9⭐, 2** forks (🔥 Display your projects information on your profile README) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **8⭐, 3** forks (This bot receives the user inputs via webhook, makes backed ...) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **5⭐, 3** forks (This is the final project made during my internship in Techn...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 2** forks (The app fetches the data from the backend API and then it is...) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **5⭐, 1** forks (This is a blogging website build with Python as backend, pop...) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 4** forks (This was the analysis from my side. I have tried to analyze ...) 
-* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **4⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
-* [Data-Analysis-Hub](https://github.com/kaustubhgupta/Data-Analysis-Hub) **2⭐, 2** forks (This is where all my Data Analysis notebooks are present. Al...) 
-* [blog](https://github.com/kaustubhgupta/blog) **2⭐, 0** forks (All my nontech articles that were published in Wix will be r...)<!-- PROJECTS END -->
+* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **4⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

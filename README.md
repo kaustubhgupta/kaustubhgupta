@@ -12,7 +12,7 @@
 ## ⚡ Projects
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **95⭐, 24** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **29⭐, 22** forks (The repository host the API for the ML model via FastAPI, Fl...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **29⭐, 21** forks (The repository host the API for the ML model via FastAPI, Fl...) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **28⭐, 11** forks (This Web App gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **19⭐, 7** forks (This is a very basic approach to get the lyrics of the song ...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **9⭐, 2** forks (🔥 Display your projects information on your profile README) 

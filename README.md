@@ -24,10 +24,6 @@
    
 ## ⚡ Blogs Written
 
-**Non Tech Blogs**
-
-[blog.kaustubhgupta.me](https://blog.kaustubhgupta.me/)
-
 **Tech Blogs Master List**
 <p><a href="https://medium.com/@kaustubhgupta1828/all-my-articles-under-one-hood-f1ab2e5eac89"> All My Articles Under One Hood! </a></p>
 
@@ -43,3 +39,7 @@
  - 🌮 [Deploying ML Models as API Using FastAPI and Heroku](https://www.analyticsvidhya.com/blog/2021/06/deploying-ml-models-as-api-using-fastapi-and-heroku/) Wed Jun 30 2021 8:17 AM
  - 🔥 [Style your Pandas DataFrame and Make it Stunning](https://www.analyticsvidhya.com/blog/2021/06/style-your-pandas-dataframe-and-make-it-stunning/) Sun Jun 27 2021 3:36 PM
  - 🔥 [Plotting Visualizations Out of Pandas DataFrames](https://www.analyticsvidhya.com/blog/2021/06/plotting-visualizations-out-of-pandas-dataframes/) Sat Jun 26 2021 3:51 PM<!-- BLOG-POST-LIST:END -->
+ 
+ **Non Tech Blogs**
+
+[blog.kaustubhgupta.me](https://blog.kaustubhgupta.me/)

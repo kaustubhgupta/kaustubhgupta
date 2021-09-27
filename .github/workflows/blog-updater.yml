@@ -4,7 +4,7 @@ on:
     # Runs at the end of every day
     - cron: '10 0 * * *'
   workflow_dispatch:
-
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy)
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -15,7 +15,7 @@ jobs:
         with:
           feed_list: "https://blog.kaustubhgupta.me/feed.xml, https://www.analyticsvidhya.com/blog/author/kaustubh1828/feed/, https://medium.com/feed/@kaustubhgupta1828, https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"
           max_post_count: 10
-          template: "<p><a href=$url > $title </a>: $date </p>"
+          template: "* [$title]($url) $date"
           gh_token: ${{ secrets.TOKEN }}
           commit_message: Updated latest blogs
           committer_username: kaustubhgupta

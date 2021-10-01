@@ -20,7 +20,8 @@
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **5⭐, 3** forks (This is the final project made during my internship in Techn...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 2** forks (The app fetches the data from the backend API and then it is...) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 4** forks (This was the analysis from my side. I have tried to analyze ...) 
-* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **4⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥)<!-- PROJECTS END -->
+* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **4⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
+* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **1⭐, 0** forks (This repository holds the dataset and the extraction script ...)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

@@ -13,15 +13,15 @@
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **98⭐, 24** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **29⭐, 21** forks (The repository host the API for the ML model via FastAPI, Fl...) 
-* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **28⭐, 11** forks (This Web App gives a detailed report about the WhatsApp Grou...) 
-* [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **19⭐, 7** forks (This is a very basic approach to get the lyrics of the song ...) 
+* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **28⭐, 11** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
+* [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **19⭐, 7** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **9⭐, 3** forks (🔥 Display your projects information on your profile README) 
-* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **8⭐, 3** forks (This bot receives the user inputs via webhook, makes backed ...) 
-* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **5⭐, 3** forks (This is the final project made during my internship in Techn...) 
-* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 2** forks (The app fetches the data from the backend API and then it is...) 
-* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 4** forks (This was the analysis from my side. I have tried to analyze ...) 
+* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **8⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
+* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **5⭐, 3** forks (Final project made during my internship in Technocolabs. ) 
+* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **5⭐, 2** forks (Python-Android App for fetching result data 🔥) 
+* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **5⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **4⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
-* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **1⭐, 0** forks (This repository holds the dataset and the extraction script ...)<!-- PROJECTS END -->
+* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **1⭐, 0** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

@@ -34,7 +34,7 @@
  - 🌮 [Guide For Data Analysis: From Data Extraction to Dashboard](https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/) Thu Sep 30 2021 1:59 PM
  - 🚀 [How to Extract Tabular Data from Doc files Using Python?](https://www.analyticsvidhya.com/blog/2021/09/how-to-extract-tabular-data-from-doc-files-using-python/) Wed Sep 15 2021 9:55 AM
  - 💫 [How to Create Stunning and Interactive Dashboards in Excel?](https://www.analyticsvidhya.com/blog/2021/09/how-to-create-stunning-and-interactive-dashboards-in-excel/) Fri Sep 10 2021 12:56 PM
- - 🚀 [Python But It's Weird](https://towardsdatascience.com/python-but-its-weird-f90b45220f86?source=rss-603da2b47f57------2) Wed Aug 18 2021 4:32 PM
+ - 🚀 [Python But It&#39;s Weird](https://towardsdatascience.com/python-but-its-weird-f90b45220f86?source=rss-603da2b47f57------2) Wed Aug 18 2021 4:32 PM
  - 🔥 [Everything You Need To Know About PandasGUI](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/) Mon Jul 19 2021 10:59 AM
  - 🔥 [Python on Frontend: ML Models Web Interface With Brython](https://www.analyticsvidhya.com/blog/2021/07/python-on-frontend-ml-models-web-interface-with-brython/) Wed Jul 14 2021 9:45 AM
  - 💯 [GS-SOC’21 Experience as Mentor](https://blog.kaustubhgupta.me/2021/07/11/gssoc-experience-mentor/) Sat Jul 10 2021 6:30 PM

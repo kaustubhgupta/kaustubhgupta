@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">✨✨Featured as Top 10 Authors on Analytics Vidhya, 2021✨✨</a>
+  <a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">✨✨Featured in Top 10 Authors on Analytics Vidhya, 2021✨✨</a>
 </p>
 <br>
 

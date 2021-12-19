@@ -8,6 +8,11 @@
   <a target="_blank" href="https://twitter.com/Kaustubh1828"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://medium.com/@kaustubhgupta1828"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<br>
+<p align="center">
+  <a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">✨✨Featured as Top 10 Authors on Analytics Vidhya, 2021✨✨</a>
+</p>
+<br>
 
 ## ⚡ Projects
 <!-- PROJECTS START -->

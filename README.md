@@ -44,8 +44,8 @@
  - 🔥 [Python But It&#39;s Weird](https://towardsdatascience.com/python-but-its-weird-f90b45220f86?source=rss-603da2b47f57------2) Wed Aug 18 2021 4:32 PM
  - 💯 [Everything You Need To Know About PandasGUI](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/) Mon Jul 19 2021 10:59 AM
  - 🌮 [Python on Frontend: ML Models Web Interface With Brython](https://www.analyticsvidhya.com/blog/2021/07/python-on-frontend-ml-models-web-interface-with-brython/) Wed Jul 14 2021 9:45 AM
- - 🔥 [GS-SOC’21 Experience as Mentor](https://blog.kaustubhgupta.me/2021/07/11/gssoc-experience-mentor/) Sat Jul 10 2021 6:30 PM
- - 🔥 [Creating Android Machine Learning Apps Using KivyMD](https://www.analyticsvidhya.com/blog/2021/06/creating-android-ml-app-kivymd/) Wed Jun 30 2021 10:53 AM<!-- BLOG-POST-LIST:END -->
+ - 🔥 [Creating Android Machine Learning Apps Using KivyMD](https://www.analyticsvidhya.com/blog/2021/06/creating-android-ml-app-kivymd/) Wed Jun 30 2021 10:53 AM
+ - 🔥 [Deploying ML Models as API Using FastAPI and Heroku](https://www.analyticsvidhya.com/blog/2021/06/deploying-ml-models-as-api-using-fastapi-and-heroku/) Wed Jun 30 2021 8:17 AM<!-- BLOG-POST-LIST:END -->
  
  **Non Tech Blogs**
 

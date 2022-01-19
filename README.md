@@ -16,18 +16,18 @@
 
 ## ⚡ Projects
 <!-- PROJECTS START -->
-* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **101⭐, 22** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **36⭐, 22** forks (The repository host the API for the ML model via FastAPI, Fl...) 
-* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **30⭐, 13** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **36⭐, 23** forks (The repository host the API for the ML model via FastAPI, Fl...) 
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **102⭐, 22** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
+* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **31⭐, 13** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **20⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **6⭐, 4** forks (Final project made during my internship in Technocolabs. ) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **10⭐, 4** forks (🔥 Display your projects information on your profile README) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **6⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **11⭐, 2** forks (Telegram bot to fetch IPU Results 🔥😁) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **5⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
+* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **2⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **7⭐, 1** forks (Python-Android App for fetching result data 🔥) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **6⭐, 1** forks (Blogging website built with Python Flask as backend, popular...) 
-* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **2⭐, 1** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...)<!-- PROJECTS END -->
+* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **6⭐, 1** forks (Blogging website built with Python Flask as backend, popular...)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

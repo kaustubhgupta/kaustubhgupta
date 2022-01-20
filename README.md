@@ -27,7 +27,7 @@
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **5⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥🔥) 
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **2⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **7⭐, 1** forks (Python-Android App for fetching result data 🔥) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **6⭐, 1** forks (Blogging website built with Python Flask as backend, popular...)<!-- PROJECTS END -->
+* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **7⭐, 1** forks (Blogging website built with Python Flask as backend, popular...)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

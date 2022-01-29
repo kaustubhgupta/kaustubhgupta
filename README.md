@@ -16,7 +16,7 @@
 
 ## ⚡ Projects
 <!-- PROJECTS START -->
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **36⭐, 23** forks (The repository host the API for the ML model via FastAPI, Fl...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **38⭐, 23** forks (The repository host the API for the ML model via FastAPI, Fl...) 
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **102⭐, 22** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **31⭐, 14** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **21⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 

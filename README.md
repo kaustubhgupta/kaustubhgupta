@@ -40,12 +40,12 @@
  - 🚀 [Why Does This Website Show No Source Code?](https://medium.com/geekculture/why-does-this-website-show-no-source-code-a8bd5892d754?source=rss-603da2b47f57------2) Mon Jan 10 2022 1:33 AM
  - 💫 [Who Writes Better Code: GitHub CoPilot or GPT-3?](https://python.plainenglish.io/who-writes-better-code-github-copilot-or-gpt-3-9e7441650c9b?source=rss-603da2b47f57------2) Tue Nov 23 2021 4:46 AM
  - 🚀 [How to Convert Pandas DataFrame Into API Using Beneath](https://python.plainenglish.io/how-to-convert-pandas-dataframe-into-api-using-beneath-9982620221a4?source=rss-603da2b47f57------2) Tue Nov 09 2021 4:46 AM
- - 🔥 [Guide For Data Analysis: From Data Extraction to Dashboard](https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/) Thu Sep 30 2021 1:59 PM
- - 🔥 [How to Extract Tabular Data from Doc files Using Python?](https://www.analyticsvidhya.com/blog/2021/09/how-to-extract-tabular-data-from-doc-files-using-python/) Wed Sep 15 2021 9:55 AM
- - 💯 [How to Create Stunning and Interactive Dashboards in Excel?](https://www.analyticsvidhya.com/blog/2021/09/how-to-create-stunning-and-interactive-dashboards-in-excel/) Fri Sep 10 2021 12:56 PM
- - 🌮 [Python But It&#39;s Weird](https://towardsdatascience.com/python-but-its-weird-f90b45220f86?source=rss-603da2b47f57------2) Wed Aug 18 2021 4:32 PM
- - 🔥 [Everything You Need To Know About PandasGUI](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/) Mon Jul 19 2021 10:59 AM
- - 🔥 [Python on Frontend: ML Models Web Interface With Brython](https://www.analyticsvidhya.com/blog/2021/07/python-on-frontend-ml-models-web-interface-with-brython/) Wed Jul 14 2021 9:45 AM<!-- BLOG-POST-LIST:END -->
+ - 🔥 [Python But It&#39;s Weird](https://towardsdatascience.com/python-but-its-weird-f90b45220f86?source=rss-603da2b47f57------2) Wed Aug 18 2021 4:32 PM
+ - 🔥 [All My Articles Under One Hood!](https://medium.com/@kaustubhgupta1828/all-my-articles-under-one-hood-f1ab2e5eac89?source=rss-603da2b47f57------2) Thu Jun 24 2021 6:35 AM
+ - 💯 [CyberBrain: Debugging Python Programs Like A Pro](https://towardsdatascience.com/cyberbrain-debugging-python-programs-like-a-pro-dbedbfa25800?source=rss-603da2b47f57------2) Mon May 03 2021 1:34 PM
+ - 🌮 [Deploying Python GitHub Actions to Marketplace](https://towardsdatascience.com/deploying-python-github-actions-to-marketplace-d07790e9817d?source=rss-603da2b47f57------2) Sun Mar 28 2021 7:06 PM
+ - 🔥 [Creating Interactive Jupyter Notebooks and Deployment on Heroku Using Voila](https://towardsdatascience.com/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca?source=rss-603da2b47f57------2) Wed Feb 24 2021 8:43 PM
+ - 🔥 [ColabCode: Deploying Machine Learning Models From Google Colab](https://towardsdatascience.com/colabcode-deploying-machine-learning-models-from-google-colab-54e0d37a7b09?source=rss-603da2b47f57------2) Thu Feb 04 2021 7:27 PM<!-- BLOG-POST-LIST:END -->
  
  **Non Tech Blogs**
 

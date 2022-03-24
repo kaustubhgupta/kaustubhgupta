@@ -14,4 +14,4 @@ jobs:
         with:
           gh_token: ${{ secrets.TOKEN }}
           max_repo_description: 60
-          project_sort_by: 'forks'
+          project_sort_by: 'stars'

@@ -27,7 +27,8 @@
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **7⭐, 1** forks (Python-Android App for fetching result data 🔥) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **6⭐, 5** forks (Final project made during my internship in Technocolabs. ) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **5⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
-* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **3⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...)<!-- PROJECTS END -->
+* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **3⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
+* [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **1⭐, 0** forks (Automated Trending YouTube Videos Dashboard)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

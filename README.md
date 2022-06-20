@@ -17,14 +17,14 @@
 ## ⚡ Projects
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **105⭐, 22** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **48⭐, 28** forks (The repository host the API for the ML model via FastAPI, Fl...) 
+* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **49⭐, 28** forks (The repository host the API for the ML model via FastAPI, Fl...) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **37⭐, 15** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **23⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **11⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **11⭐, 4** forks (🔥 Display your projects information on your profile README) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **9⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
+* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **8⭐, 1** forks (Python-Android App for fetching result data 🔥) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **8⭐, 2** forks (Blogging website built with Python Flask as backend, popular...) 
-* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **7⭐, 1** forks (Python-Android App for fetching result data 🔥) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **6⭐, 5** forks (Final project made during my internship in Technocolabs. ) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **5⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **4⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 

@@ -50,4 +50,4 @@
  
  **Non Tech Blogs**
 
-[blog.kaustubhgupta.me](https://blog.kaustubhgupta.me/)
+[kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog/)

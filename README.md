@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh's Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh%27s%20Stats">
 </p>
 
 <p align="center">

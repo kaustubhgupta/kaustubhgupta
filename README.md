@@ -20,7 +20,7 @@
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **51⭐, 30** forks (The repository host the API for the ML model via FastAPI, Fl...) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **37⭐, 17** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **23⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
-* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **12⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
+* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **13⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **11⭐, 4** forks (🔥 Display your projects information on your profile README) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **10⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **9⭐, 2** forks (Blogging website built with Python Flask as backend, popular...) 

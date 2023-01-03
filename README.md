@@ -25,7 +25,7 @@
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **10⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **9⭐, 1** forks (Python-Android App for fetching result data 🔥) 
 * [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **9⭐, 2** forks (Blogging website built with Python Flask as backend, popular...) 
-* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **6⭐, 5** forks (Final project made during my internship in Technocolabs. ) 
+* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **7⭐, 5** forks (Final project made during my internship in Technocolabs. ) 
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **6⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **5⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
 * [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **2⭐, 0** forks (Automated Trending YouTube Videos Dashboard)<!-- PROJECTS END -->

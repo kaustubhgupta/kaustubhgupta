@@ -39,14 +39,14 @@
 <!-- BLOG-POST-LIST:START -->
  - 🌮 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM
  - 🚀 [The Ultimate Guide to Master Jinja Template](https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/) Wed Apr 27 2022 11:32 AM
- - 💫 [Python Datetime Vs. NumPy Datetime: 8 Differences You Should Know](https://python.plainenglish.io/python-numpy-datetime-8-differences-you-should-know-ecb4111eeeca?source=rss-603da2b47f57------2) Thu Mar 24 2022 4:18 AM
- - 🚀 [5 Advance Features of FastAPI You Should Try](https://levelup.gitconnected.com/5-advance-features-of-fastapi-you-should-try-7c0ac7eebb3e?source=rss-603da2b47f57------2) Mon Jan 17 2022 2:24 AM
- - 🔥 [Why Does This Website Show No Source Code?](https://medium.com/geekculture/why-does-this-website-show-no-source-code-a8bd5892d754?source=rss-603da2b47f57------2) Mon Jan 10 2022 1:33 AM
- - 🔥 [Who Writes Better Code: GitHub CoPilot or GPT-3?](https://python.plainenglish.io/who-writes-better-code-github-copilot-or-gpt-3-9e7441650c9b?source=rss-603da2b47f57------2) Tue Nov 23 2021 4:46 AM
- - 💯 [How to Convert Pandas DataFrame Into API Using Beneath](https://python.plainenglish.io/how-to-convert-pandas-dataframe-into-api-using-beneath-9982620221a4?source=rss-603da2b47f57------2) Tue Nov 09 2021 4:46 AM
- - 🌮 [Guide For Data Analysis: From Data Extraction to Dashboard](https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/) Thu Sep 30 2021 1:59 PM
- - 🔥 [How to Extract Tabular Data from Doc files Using Python?](https://www.analyticsvidhya.com/blog/2021/09/how-to-extract-tabular-data-from-doc-files-using-python/) Wed Sep 15 2021 9:55 AM
- - 🔥 [How to Create Stunning and Interactive Dashboards in Excel?](https://www.analyticsvidhya.com/blog/2021/09/how-to-create-stunning-and-interactive-dashboards-in-excel/) Fri Sep 10 2021 12:56 PM<!-- BLOG-POST-LIST:END -->
+ - 💫 [Guide For Data Analysis: From Data Extraction to Dashboard](https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/) Thu Sep 30 2021 1:59 PM
+ - 🚀 [How to Extract Tabular Data from Doc files Using Python?](https://www.analyticsvidhya.com/blog/2021/09/how-to-extract-tabular-data-from-doc-files-using-python/) Wed Sep 15 2021 9:55 AM
+ - 🔥 [How to Create Stunning and Interactive Dashboards in Excel?](https://www.analyticsvidhya.com/blog/2021/09/how-to-create-stunning-and-interactive-dashboards-in-excel/) Fri Sep 10 2021 12:56 PM
+ - 🔥 [Everything You Need To Know About PandasGUI](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/) Mon Jul 19 2021 10:59 AM
+ - 💯 [Python on Frontend: ML Models Web Interface With Brython](https://www.analyticsvidhya.com/blog/2021/07/python-on-frontend-ml-models-web-interface-with-brython/) Wed Jul 14 2021 9:45 AM
+ - 🌮 [Creating Android Machine Learning Apps Using KivyMD](https://www.analyticsvidhya.com/blog/2021/06/creating-android-ml-app-kivymd/) Wed Jun 30 2021 10:53 AM
+ - 🔥 [Deploying ML Models as API Using FastAPI and Heroku](https://www.analyticsvidhya.com/blog/2021/06/deploying-ml-models-as-api-using-fastapi-and-heroku/) Wed Jun 30 2021 8:17 AM
+ - 🔥 [Style your Pandas DataFrame and Make it Stunning](https://www.analyticsvidhya.com/blog/2021/06/style-your-pandas-dataframe-and-make-it-stunning/) Sun Jun 27 2021 3:36 PM<!-- BLOG-POST-LIST:END -->
  
  **Non Tech Blogs**
 

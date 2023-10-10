@@ -23,7 +23,7 @@
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **14⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **12⭐, 4** forks (🔥 Display your projects information on your profile README) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **10⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **10⭐, 3** forks (Blogging website built with Python Flask as backend, popular...) 
+* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **10⭐, 4** forks (Blogging website built with Python Flask as backend, popular...) 
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **9⭐, 1** forks (Python-Android App for fetching result data 🔥) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **7⭐, 5** forks (Final project made during my internship in Technocolabs. ) 
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **7⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 

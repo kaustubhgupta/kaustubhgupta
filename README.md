@@ -16,7 +16,7 @@
 
 ## ⚡ Projects
 <!-- PROJECTS START -->
-* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **118⭐, 20** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **119⭐, 20** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
 * [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **62⭐, 32** forks (The repository host the API for the ML model via FastAPI, Fl...) 
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **39⭐, 18** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **24⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
@@ -27,7 +27,7 @@
 * [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **9⭐, 1** forks (Python-Android App for fetching result data 🔥) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **7⭐, 6** forks (Final project made during my internship in Technocolabs. ) 
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **7⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
-* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **5⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
+* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **6⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
 * [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **2⭐, 0** forks (Automated Trending YouTube Videos Dashboard)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written

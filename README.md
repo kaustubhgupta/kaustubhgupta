@@ -16,7 +16,7 @@
   ✨✨<a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">Featured in "Top 10 Authors of Analytics Vidhya, 2021"</a>✨✨
 </p>
 <p align="center">
-  My Portfolio: <a href="https://kaustubhgupta.github.io/blog/">kaustubhgupta.github.io</a>
+  My Portfolio: <a href="https://kaustubhgupta.github.io">kaustubhgupta.github.io</a>
 </p>
 <br>
 

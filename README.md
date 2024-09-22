@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-  ✨✨<a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">Awarded "Top 5 Community Contributor of India" by Analytics Vidhya, 2023"</a>✨✨
+  ✨✨<a href="https://www.analyticsvidhya.com/blog/2024/06/luminary-awards-at-datahack-summit-2024/">Awarded "Top 5 Community Contributor of India" by Analytics Vidhya, 2023"</a>✨✨
 </p>
 <p align="center">
   ✨✨<a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">Featured in "Top 10 Authors of Analytics Vidhya, 2021"</a>✨✨

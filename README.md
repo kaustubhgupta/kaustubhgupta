@@ -43,16 +43,16 @@
 
 **Post by Publishing Dates**
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
- - 🚀 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
- - 💫 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
- - 🚀 [How to Automate Google Sheets?](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
+ - 🌮 [Impress Your Neighbor with these 8 Python Libraries](https://levelup.gitconnected.com/impress-your-neighbor-with-these-8-python-libraries-50438116d482?source=rss-603da2b47f57------2) Tue Oct 15 2024 5:44 PM
+ - 🚀 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
+ - 💫 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
+ - 🚀 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
+ - 🔥 [How to Automate Google Sheets?](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
  - 🔥 [I am coming back to Medium!](https://medium.com/@kaustubhgupta1828/i-am-coming-back-to-medium-14d90a70669a?source=rss-603da2b47f57------2) Tue Sep 03 2024 2:50 PM
- - 🔥 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM
- - 💯 [The Ultimate Guide to Master Jinja Template](https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/) Wed Apr 27 2022 11:32 AM
- - 🌮 [Python Datetime Vs. NumPy Datetime: 8 Differences You Should Know](https://python.plainenglish.io/python-numpy-datetime-8-differences-you-should-know-ecb4111eeeca?source=rss-603da2b47f57------2) Thu Mar 24 2022 4:18 AM
- - 🔥 [5 Advance Features of FastAPI You Should Try](https://levelup.gitconnected.com/5-advance-features-of-fastapi-you-should-try-7c0ac7eebb3e?source=rss-603da2b47f57------2) Mon Jan 17 2022 2:24 AM
- - 🔥 [Why Does This Website Show No Source Code?](https://medium.com/geekculture/why-does-this-website-show-no-source-code-a8bd5892d754?source=rss-603da2b47f57------2) Mon Jan 10 2022 1:33 AM<!-- BLOG-POST-LIST:END -->
+ - 💯 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM
+ - 🌮 [The Ultimate Guide to Master Jinja Template](https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/) Wed Apr 27 2022 11:32 AM
+ - 🔥 [Python Datetime Vs. NumPy Datetime: 8 Differences You Should Know](https://python.plainenglish.io/python-numpy-datetime-8-differences-you-should-know-ecb4111eeeca?source=rss-603da2b47f57------2) Thu Mar 24 2022 4:18 AM
+ - 🔥 [5 Advance Features of FastAPI You Should Try](https://levelup.gitconnected.com/5-advance-features-of-fastapi-you-should-try-7c0ac7eebb3e?source=rss-603da2b47f57------2) Mon Jan 17 2022 2:24 AM<!-- BLOG-POST-LIST:END -->
  
  **Non Tech Blogs**
 

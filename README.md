@@ -34,7 +34,8 @@
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **8⭐, 6** forks (Final project made during my internship in Technocolabs. ) 
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **8⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **6⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
-* [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **2⭐, 0** forks (Automated Trending YouTube Videos Dashboard)<!-- PROJECTS END -->
+* [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **2⭐, 0** forks (Automated Trending YouTube Videos Dashboard) 
+* [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **0⭐, 0** forks (Tableau Extension Demo - Built with Anvil)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written
 

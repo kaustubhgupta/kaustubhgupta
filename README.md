@@ -35,6 +35,7 @@
 * [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **8⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
 * [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **6⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
 * [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **2⭐, 0** forks (Automated Trending YouTube Videos Dashboard) 
+* [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐, 0** forks (ELT pipeline: S3 -> Snowflake <-> DBT <> Airflow) 
 * [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **0⭐, 0** forks (Tableau Extension Demo - Built with Anvil)<!-- PROJECTS END -->
    
 ## ⚡ Blogs Written

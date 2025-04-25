@@ -50,7 +50,7 @@
  - 💫 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
  - 🚀 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
  - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
- - 🔥 [Google Sheets Automation using Python](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
+ - 🔥 [How to Automate Google Sheets Using Python?](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
  - 💯 [I am coming back to Medium!](https://medium.com/@kaustubhgupta1828/i-am-coming-back-to-medium-14d90a70669a?source=rss-603da2b47f57------2) Tue Sep 03 2024 2:50 PM
  - 🌮 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM
  - 🔥 [The Ultimate Guide to Master Jinja Template](https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/) Wed Apr 27 2022 11:32 AM

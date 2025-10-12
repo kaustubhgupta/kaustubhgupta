@@ -46,16 +46,16 @@
 
 **Post by Publishing Dates**
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [Top 10 features of Snowflake You Must Try](https://levelup.gitconnected.com/top-10-features-of-snowflake-you-must-try-bed6aaaf2e8b?source=rss-603da2b47f57------2) Mon Apr 28 2025 2:37 PM
- - 🚀 [My Layoff Story: A Journey I Never Expected](https://medium.com/@kaustubhgupta1828/my-layoff-story-a-journey-i-never-expected-16d5687cab7c?source=rss-603da2b47f57------2) Sat Nov 23 2024 11:32 AM
- - 💫 [Impress Your Neighbor with these 8 Python Libraries](https://levelup.gitconnected.com/impress-your-neighbor-with-these-8-python-libraries-50438116d482?source=rss-603da2b47f57------2) Tue Oct 15 2024 5:44 PM
- - 🚀 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
+ - 🌮 [Connecting Airflow with dbt and Snowflake](https://blog.dataengineerthings.org/connecting-airflow-with-dbt-and-snowflake-3c1ba89f8b20?source=rss-603da2b47f57------2) Sun Oct 12 2025 7:14 AM
+ - 🚀 [Top 10 features of Snowflake You Must Try](https://levelup.gitconnected.com/top-10-features-of-snowflake-you-must-try-bed6aaaf2e8b?source=rss-603da2b47f57------2) Mon Apr 28 2025 2:37 PM
+ - 💫 [My Layoff Story: A Journey I Never Expected](https://medium.com/@kaustubhgupta1828/my-layoff-story-a-journey-i-never-expected-16d5687cab7c?source=rss-603da2b47f57------2) Sat Nov 23 2024 11:32 AM
+ - 🚀 [Impress Your Neighbor with these 8 Python Libraries](https://levelup.gitconnected.com/impress-your-neighbor-with-these-8-python-libraries-50438116d482?source=rss-603da2b47f57------2) Tue Oct 15 2024 5:44 PM
+ - 🔥 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
  - 🔥 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
- - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
- - 💯 [Google Sheets Automation using Python](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
- - 🌮 [I am coming back to Medium!](https://medium.com/@kaustubhgupta1828/i-am-coming-back-to-medium-14d90a70669a?source=rss-603da2b47f57------2) Tue Sep 03 2024 2:50 PM
- - 🔥 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM
- - 🔥 [The Ultimate Guide to Master Jinja Template](https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/) Wed Apr 27 2022 11:32 AM<!-- BLOG-POST-LIST:END -->
+ - 💯 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
+ - 🌮 [Google Sheets Automation using Python](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
+ - 🔥 [I am coming back to Medium!](https://medium.com/@kaustubhgupta1828/i-am-coming-back-to-medium-14d90a70669a?source=rss-603da2b47f57------2) Tue Sep 03 2024 2:50 PM
+ - 🔥 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM<!-- BLOG-POST-LIST:END -->
  
  **Non Tech Blogs**
 

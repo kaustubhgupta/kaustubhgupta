@@ -27,7 +27,7 @@
 * [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **42⭐, 20** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
 * [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **24⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐, 4** forks (🔥 Display your projects information on your profile README) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **15⭐, 6** forks (Blogging website built with Python Flask as backend, popular...) 
+* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **15⭐, 5** forks (Blogging website built with Python Flask as backend, popular...) 
 * [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **15⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
 * [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **10⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
 * [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **8⭐, 6** forks (Final project made during my internship in Technocolabs. ) 

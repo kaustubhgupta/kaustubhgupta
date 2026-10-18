@@ -16,8 +16,8 @@
 🚧 **Currently building:** a Streamlit suite for text-to-SQL and RAG over PostgreSQL, in [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps).
 
 <!-- PROJECTS START -->
-* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐** (🔥 Display your projects information on your profile README)
 * [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps) **0⭐** (Full GenAI application suite)
+* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐** (🔥 Display your projects information on your profile README)
 * [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐** (Retail Data Generation Pipeline)
 * [databricks-retail](https://github.com/kaustubhgupta/databricks-retail) **0⭐**
 * [terminal-mcp-server-claude](https://github.com/kaustubhgupta/terminal-mcp-server-claude) **0⭐**

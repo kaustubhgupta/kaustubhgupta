@@ -26,6 +26,7 @@
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐, 4** forks (🔥 Display your projects information on your profile README) 
 * [postgress-mcp-server-claude](https://github.com/kaustubhgupta/postgress-mcp-server-claude) **3⭐, 0** forks (Interactive SQL learning playground powered by MCP + Postgre...) 
 * [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐, 0** forks (Retail Data Generation Pipeline) 
+* [rental-property-management-dbt](https://github.com/kaustubhgupta/rental-property-management-dbt) **2⭐, 0** forks (Hubspot assessment for Analytics Engineer ) 
 * [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐, 0** forks (Tableau Extension Demo - Built with Anvil) 
 * [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐, 0** forks (ELT pipeline: S3 -> Snowflake <-> DBT <> Airflow)<!-- PROJECTS END -->
    

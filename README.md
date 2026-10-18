@@ -16,18 +16,18 @@
 🚧 **Currently building:** a Streamlit suite for text-to-SQL and RAG over PostgreSQL, in [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps).
 
 <!-- PROJECTS START -->
-* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐** (🔥 Display your projects inform...)
+* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐** (🔥 Display your projects information on your profile README)
 * [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps) **0⭐**
-* [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐** (Retail Data Generation Pipelin...)
+* [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐** (Retail Data Generation Pipeline)
 * [databricks-retail](https://github.com/kaustubhgupta/databricks-retail) **0⭐**
 * [terminal-mcp-server-claude](https://github.com/kaustubhgupta/terminal-mcp-server-claude) **0⭐**
-* [postgress-mcp-server-claude](https://github.com/kaustubhgupta/postgress-mcp-server-claude) **3⭐** (Interactive SQL learning playg...)
-* [rental-property-management-dbt](https://github.com/kaustubhgupta/rental-property-management-dbt) **2⭐** (Hubspot assessment for Analyti...)
-* [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐** (ELT pipeline: S3 -> Snowflake...)
+* [postgress-mcp-server-claude](https://github.com/kaustubhgupta/postgress-mcp-server-claude) **3⭐** (Interactive SQL learning playground powered by MCP + PostgreSQL + Clau...)
+* [rental-property-management-dbt](https://github.com/kaustubhgupta/rental-property-management-dbt) **2⭐** (Hubspot assessment for Analytics Engineer)
+* [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐** (ELT pipeline: S3 -> Snowflake <-> DBT <> Airflow)
 * [cricket-analytics-streamlit](https://github.com/kaustubhgupta/cricket-analytics-streamlit) **0⭐**
 * [anvil-medium-demo](https://github.com/kaustubhgupta/anvil-medium-demo) **0⭐**
-* [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐** (Tableau Extension Demo - Built...)
-* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **128⭐** (🔥 Dynamically Self Updating Po...)
+* [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐** (Tableau Extension Demo - Built with Anvil)
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **128⭐** (🔥 Dynamically Self Updating Portfolio GitHub Action)
 <!-- PROJECTS END -->
 
 ## ✍️ Blogs

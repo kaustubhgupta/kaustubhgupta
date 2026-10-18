@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 
 <p align="center">
-  Senior Data Analytics Engineer at <b>Impact Analytics</b>. I build SQL data models, Airflow-orchestrated pipelines and GenAI data apps, and write about the tools I use.
+  Senior AI Analytics Engineer. I build SQL data models, Airflow-orchestrated pipelines, and GenAI data apps, and write about the tools I use.
 </p>
 
 <p align="center">

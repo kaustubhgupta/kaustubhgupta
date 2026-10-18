@@ -23,19 +23,8 @@
 ## ⚡ Projects
 <!-- PROJECTS START -->
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **128⭐, 20** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) 
-* [KivyMLApp](https://github.com/kaustubhgupta/KivyMLApp) **67⭐, 34** forks (The repository host the API for the ML model via FastAPI, Fl...) 
-* [WhatsApp-Groups-Analyser](https://github.com/kaustubhgupta/WhatsApp-Groups-Analyser) **43⭐, 20** forks (Web App that gives a detailed report about the WhatsApp Grou...) 
-* [IEEEMAITSongs](https://github.com/kaustubhgupta/IEEEMAITSongs) **24⭐, 8** forks (Songs Lyrics Fetcher using Python on Frontend via Brython 🔥) 
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐, 4** forks (🔥 Display your projects information on your profile README) 
-* [FlaskWebsite](https://github.com/kaustubhgupta/FlaskWebsite) **15⭐, 5** forks (Blogging website built with Python Flask as backend, popular...) 
-* [Covid-Tweets-Analysis-Dashboard](https://github.com/kaustubhgupta/Covid-Tweets-Analysis-Dashboard) **15⭐, 4** forks (Covid Tweets Analysis, final report as deployed Jupyter note...) 
-* [TelegramBot-IPU](https://github.com/kaustubhgupta/TelegramBot-IPU) **10⭐, 3** forks (Telegram bot to fetch IPU Results 🔥😁) 
-* [Technocolab-Final-Project](https://github.com/kaustubhgupta/Technocolab-Final-Project) **8⭐, 5** forks (Final project made during my internship in Technocolabs. ) 
-* [IPUResultAndroidApp](https://github.com/kaustubhgupta/IPUResultAndroidApp) **8⭐, 1** forks (Python-Android App for fetching result data 🔥) 
-* [blogathon-analysis](https://github.com/kaustubhgupta/blogathon-analysis) **8⭐, 2** forks (Analytics Vidhya Blogathon Data Analysis: Python Data Extrac...) 
-* [IPU-Website](https://github.com/kaustubhgupta/IPU-Website) **6⭐, 2** forks (IPU Results Portal, the best getaway to obtain results 🔥) 
 * [postgress-mcp-server-claude](https://github.com/kaustubhgupta/postgress-mcp-server-claude) **3⭐, 0** forks (Interactive SQL learning playground powered by MCP + Postgre...) 
-* [Trending-YTVideos-Dashboard](https://github.com/kaustubhgupta/Trending-YTVideos-Dashboard) **2⭐, 0** forks (Automated Trending YouTube Videos Dashboard) 
 * [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐, 0** forks (Retail Data Generation Pipeline) 
 * [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐, 0** forks (Tableau Extension Demo - Built with Anvil) 
 * [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐, 0** forks (ELT pipeline: S3 -> Snowflake <-> DBT <> Airflow)<!-- PROJECTS END -->

@@ -1,26 +1,52 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh%27s%20Stats">
+  Senior Data Analytics Engineer at <b>Impact Analytics</b>. I build SQL data models, Airflow-orchestrated pipelines and GenAI data apps, and write about the tools I use.
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/kaustubh-gupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/Kaustubh1828"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://medium.com/@kaustubhgupta1828"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/kaustubh-gupta"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://x.com/Kaustubh1828"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a target="_blank" href="https://medium.com/@kaustubhgupta1828"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a target="_blank" href="https://kaustubhgupta.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
-<br>
-<p align="center">
-  ✨✨<a href="https://www.analyticsvidhya.com/blog/2024/06/luminary-awards-at-datahack-summit-2024/">Awarded "Top 5 Community Contributor of India" by Analytics Vidhya, 2023"</a>✨✨
-</p>
-<p align="center">
-  ✨✨<a href="https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/">Featured in "Top 10 Authors of Analytics Vidhya, 2021"</a>✨✨
-</p>
-<p align="center">
-  My Portfolio: <a href="https://kaustubhgupta.github.io">kaustubhgupta.github.io</a>
-</p>
-<br>
+
+## 💼 Experience
+
+**Senior Data Analytics Engineer, Impact Analytics** · Aug 2024 – Present
+- Designed and maintained 150+ SQL data models in BigQuery with Airflow-orchestrated refresh pipelines
+- Automated complex business metrics in Python and exposed them through an internal FastAPI microservice
+- Wrote PostgreSQL stored procedures for data transformations and to power product APIs
+- Authored 450+ pages of technical documentation across 4 enterprise products and delivered client implementations across 5 applications
+
+**CS Analyst, Analytics Engineer, Prodigal Technologies** · Aug 2022 – Jul 2024
+- Built 6+ core business tables from 200+ downstream sources using SQL and Python in Databricks
+- Led the Databricks–Tableau integration, onboarded 10+ analysts and introduced company-wide SOPs
+- Migrated 150+ Tableau data sources from MongoSQL to the Databricks connector, cutting refresh times by 50%
+- Automated 100+ reporting workflows with Python and Zapier, and cut MongoDB pipeline completion time by 30%
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL, Jinja
+- **Libraries and frameworks:** dbt, Pandas, Plotly, Streamlit, FastAPI, PySpark, Pydantic
+- **GenAI / LLM:** RAG, Text-to-SQL, LLM tool calling, OpenAI API, Gemini API, vector search, LLM evaluation
+- **Data warehouses:** Databricks, BigQuery, Snowflake
+- **Databases:** PostgreSQL, MongoDB, ChromaDB
+- **Cloud:** AWS (Lambda, S3, API Gateway, CloudWatch)
+- **Tools:** Airflow, Git, Tableau, Jupyter, MCP servers
+
+## 🏆 Recognition & Community
+
+- Awarded **Top 5 Community Contributor of India** by Analytics Vidhya, 2023 ([read more](https://www.analyticsvidhya.com/blog/2024/06/luminary-awards-at-datahack-summit-2024/))
+- Featured in **Top 10 Authors of Analytics Vidhya, 2021** ([read more](https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/))
+- **2M+ views** across technical blogging platforms: Medium, Analytics Vidhya, ML+ and upGrad
+- Mentored GirlScript Summer of Code 2021 participants, reviewing 250+ PRs and 450+ issues
+- Delivered a Technical Writing workshop at FIFO Talks
 
 ## ⚡ Highlighted Projects
+
+🚧 **Currently building:** a Streamlit suite for text-to-SQL and RAG over PostgreSQL, in [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps).
+
 <!-- PROJECTS START -->
 * [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐** (🔥 Display your projects inform...)
 * [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps) **0⭐**
@@ -35,13 +61,12 @@
 * [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐** (Tableau Extension Demo - Built...)
 * [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **128⭐** (🔥 Dynamically Self Updating Po...)
 <!-- PROJECTS END -->
-   
-## ⚡ Blogs Written
 
-**Tech Blogs Master List**
-<p><a href="https://medium.com/@kaustubhgupta1828/all-my-articles-under-one-hood-f1ab2e5eac89"> All My Articles Under One Hood! </a></p>
+## ✍️ Blogs
 
-**Post by Publishing Dates**
+**Tech blogs:** [All my articles under one hood](https://medium.com/@kaustubhgupta1828/all-my-articles-under-one-hood-f1ab2e5eac89)
+
+**Latest posts**
 <!-- BLOG-POST-LIST:START -->
  - 🌮 [Telegram-Triggered Data Pipeline with AWS, Gemini &amp; Databricks](https://levelup.gitconnected.com/telegram-triggered-data-pipeline-with-aws-gemini-databricks-f15f297eb7e7?source=rss-603da2b47f57------2) Fri Jun 05 2026 3:49 PM
  - 🚀 [Learn dbt for Analytics Engineering](https://levelup.gitconnected.com/learn-dbt-for-analytics-engineering-415ba71805e6?source=rss-603da2b47f57------2) Wed May 06 2026 5:03 PM
@@ -52,8 +77,13 @@
  - 💯 [Impress Your Neighbor with these 8 Python Libraries](https://levelup.gitconnected.com/impress-your-neighbor-with-these-8-python-libraries-50438116d482?source=rss-603da2b47f57------2) Tue Oct 15 2024 5:44 PM
  - 🌮 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
  - 🔥 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
- - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM<!-- BLOG-POST-LIST:END -->
- 
- **Non Tech Blogs**
+ - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
+<!-- BLOG-POST-LIST:END -->
 
-[kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog/)
+**Non-tech blogs:** [kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog/)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Kaustubh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaustubhgupta&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Kaustubh%27s%20Stats">
+</p>

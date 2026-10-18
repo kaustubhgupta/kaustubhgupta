@@ -11,38 +11,6 @@
   <a target="_blank" href="https://kaustubhgupta.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
-## 💼 Experience
-
-**Senior Data Analytics Engineer, Impact Analytics** · Aug 2024 – Present
-- Designed and maintained 150+ SQL data models in BigQuery with Airflow-orchestrated refresh pipelines
-- Automated complex business metrics in Python and exposed them through an internal FastAPI microservice
-- Wrote PostgreSQL stored procedures for data transformations and to power product APIs
-- Authored 450+ pages of technical documentation across 4 enterprise products and delivered client implementations across 5 applications
-
-**CS Analyst, Analytics Engineer, Prodigal Technologies** · Aug 2022 – Jul 2024
-- Built 6+ core business tables from 200+ downstream sources using SQL and Python in Databricks
-- Led the Databricks–Tableau integration, onboarded 10+ analysts and introduced company-wide SOPs
-- Migrated 150+ Tableau data sources from MongoSQL to the Databricks connector, cutting refresh times by 50%
-- Automated 100+ reporting workflows with Python and Zapier, and cut MongoDB pipeline completion time by 30%
-
-## 🛠️ Skills
-
-- **Languages:** Python, SQL, Jinja
-- **Libraries and frameworks:** dbt, Pandas, Plotly, Streamlit, FastAPI, PySpark, Pydantic
-- **GenAI / LLM:** RAG, Text-to-SQL, LLM tool calling, OpenAI API, Gemini API, vector search, LLM evaluation
-- **Data warehouses:** Databricks, BigQuery, Snowflake
-- **Databases:** PostgreSQL, MongoDB, ChromaDB
-- **Cloud:** AWS (Lambda, S3, API Gateway, CloudWatch)
-- **Tools:** Airflow, Git, Tableau, Jupyter, MCP servers
-
-## 🏆 Recognition & Community
-
-- Awarded **Top 5 Community Contributor of India** by Analytics Vidhya, 2023 ([read more](https://www.analyticsvidhya.com/blog/2024/06/luminary-awards-at-datahack-summit-2024/))
-- Featured in **Top 10 Authors of Analytics Vidhya, 2021** ([read more](https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/))
-- **2M+ views** across technical blogging platforms: Medium, Analytics Vidhya, ML+ and upGrad
-- Mentored GirlScript Summer of Code 2021 participants, reviewing 250+ PRs and 450+ issues
-- Delivered a Technical Writing workshop at FIFO Talks
-
 ## ⚡ Highlighted Projects
 
 🚧 **Currently building:** a Streamlit suite for text-to-SQL and RAG over PostgreSQL, in [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps).
@@ -80,7 +48,25 @@
  - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
 <!-- BLOG-POST-LIST:END -->
 
-**Non-tech blogs:** [kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog/)
+**Non-tech blogs:** [kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL, Jinja
+- **Libraries and frameworks:** dbt, Pandas, Plotly, Streamlit, FastAPI, PySpark, Pydantic
+- **GenAI / LLM:** RAG, Text-to-SQL, LLM tool calling, OpenAI API, Gemini API, vector search, LLM evaluation
+- **Data warehouses:** Databricks, BigQuery, Snowflake
+- **Databases:** PostgreSQL, MongoDB, ChromaDB
+- **Cloud:** AWS (Lambda, S3, API Gateway, CloudWatch)
+- **Tools:** Airflow, Git, Tableau, Jupyter, MCP servers
+
+## 🏆 Recognition & Community
+
+- Awarded **Top 5 Community Contributor of India** by Analytics Vidhya, 2023 ([read more](https://www.analyticsvidhya.com/blog/2024/06/luminary-awards-at-datahack-summit-2024/))
+- Featured in **Top 10 Authors of Analytics Vidhya, 2021** ([read more](https://www.analyticsvidhya.com/blog/2021/12/top-data-science-guest-authors-of-2021/))
+- **2M+ views** across technical blogging platforms: Medium, Analytics Vidhya, ML+ and upGrad
+- Mentored GirlScript Summer of Code 2021 participants, reviewing 250+ PRs and 450+ issues
+- Delivered a Technical Writing workshop at FIFO Talks
 
 ## 📊 GitHub Stats
 

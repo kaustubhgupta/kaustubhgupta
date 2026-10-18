@@ -22,19 +22,18 @@
 
 ## ⚡ Highlighted Projects
 <!-- PROJECTS START -->
-* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐, 4** forks (🔥 Display your projects information on your profile README) - updated 2026-10-18
-* [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps) **0⭐, 0** forks - updated 2026-10-18
-* [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐, 0** forks (Retail Data Generation Pipeline) - updated 2026-05-17
-* [databricks-retail](https://github.com/kaustubhgupta/databricks-retail) **0⭐, 1** forks - updated 2026-05-17
-* [terminal-mcp-server-claude](https://github.com/kaustubhgupta/terminal-mcp-server-claude) **0⭐, 0** forks - updated 2025-12-21
-* [postgress-mcp-server-claude](https://github.com/kaustubhgupta/postgress-mcp-server-claude) **3⭐, 0** forks (Interactive SQL learning playground powered by MCP + Postgre...) - updated 2025-12-21
-* [imageEditingApp](https://github.com/kaustubhgupta/imageEditingApp) **0⭐, 0** forks - updated 2025-11-22
-* [rental-property-management-dbt](https://github.com/kaustubhgupta/rental-property-management-dbt) **2⭐, 0** forks (Hubspot assessment for Analytics Engineer) - updated 2025-11-11
-* [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐, 0** forks (ELT pipeline: S3 -> Snowflake <-> DBT <> Airflow) - updated 2025-10-11
-* [cricket-analytics-streamlit](https://github.com/kaustubhgupta/cricket-analytics-streamlit) **0⭐, 0** forks - updated 2025-03-17
-* [anvil-medium-demo](https://github.com/kaustubhgupta/anvil-medium-demo) **0⭐, 0** forks - updated 2024-12-20
-* [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐, 0** forks (Tableau Extension Demo - Built with Anvil) - updated 2024-09-22
-* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **128⭐, 20** forks (🔥 Dynamically Self Updating Portfolio GitHub Action) - updated 2022-06-27
+* [readme-projects-display](https://github.com/kaustubhgupta/readme-projects-display) **15⭐** (🔥 Display your projects inform...)
+* [genai-streamlit-apps](https://github.com/kaustubhgupta/genai-streamlit-apps) **0⭐**
+* [telegram-aws-databricks-pipeline](https://github.com/kaustubhgupta/telegram-aws-databricks-pipeline) **2⭐** (Retail Data Generation Pipelin...)
+* [databricks-retail](https://github.com/kaustubhgupta/databricks-retail) **0⭐**
+* [terminal-mcp-server-claude](https://github.com/kaustubhgupta/terminal-mcp-server-claude) **0⭐**
+* [postgress-mcp-server-claude](https://github.com/kaustubhgupta/postgress-mcp-server-claude) **3⭐** (Interactive SQL learning playg...)
+* [rental-property-management-dbt](https://github.com/kaustubhgupta/rental-property-management-dbt) **2⭐** (Hubspot assessment for Analyti...)
+* [cricket-data-analysis](https://github.com/kaustubhgupta/cricket-data-analysis) **1⭐** (ELT pipeline: S3 -> Snowflake...)
+* [cricket-analytics-streamlit](https://github.com/kaustubhgupta/cricket-analytics-streamlit) **0⭐**
+* [anvil-medium-demo](https://github.com/kaustubhgupta/anvil-medium-demo) **0⭐**
+* [tableau-extension-demo](https://github.com/kaustubhgupta/tableau-extension-demo) **1⭐** (Tableau Extension Demo - Built...)
+* [PortfolioFy](https://github.com/kaustubhgupta/PortfolioFy) **128⭐** (🔥 Dynamically Self Updating Po...)
 <!-- PROJECTS END -->
    
 ## ⚡ Blogs Written

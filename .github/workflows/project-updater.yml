@@ -13,6 +13,6 @@ jobs:
       - uses: kaustubhgupta/readme-projects-display@master
         with:
           gh_token: ${{ secrets.TOKEN }}
-          max_repo_description: 30
+          max_repo_description: 70
           project_sort_by: 'updated'
           allow_forks: false

@@ -45,8 +45,7 @@
  - 💯 [Impress Your Neighbor with these 8 Python Libraries](https://levelup.gitconnected.com/impress-your-neighbor-with-these-8-python-libraries-50438116d482?source=rss-603da2b47f57------2) Tue Oct 15 2024 5:44 PM
  - 🌮 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
  - 🔥 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
- - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM
-<!-- BLOG-POST-LIST:END -->
+ - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM<!-- BLOG-POST-LIST:END -->
 
 **Non-tech blogs:** [kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog
 

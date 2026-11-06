@@ -36,16 +36,16 @@
 
 **Latest posts**
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
- - 🚀 [Google Sheets Automation using Python](https://www.analyticsvidhya.com/blog/2024/09/google-sheets-automation/) Tue Sep 10 2024 7:08 AM
- - 💫 [Master Guide for Excel Automation Using Python](https://www.analyticsvidhya.com/blog/2023/05/master-guide-for-excel-automation-using-python/) Fri May 05 2023 7:31 AM
- - 🚀 [The Ultimate Guide to Master Jinja Template](https://www.analyticsvidhya.com/blog/2022/04/the-ultimate-guide-to-master-jinja-template/) Wed Apr 27 2022 11:32 AM
- - 🔥 [Guide For Data Analysis: From Data Extraction to Dashboard](https://www.analyticsvidhya.com/blog/2021/09/guide-for-data-analysis-from-data-extraction-to-dashboard/) Thu Sep 30 2021 1:59 PM
- - 🔥 [How to Extract Tabular Data from Doc files Using Python?](https://www.analyticsvidhya.com/blog/2021/09/how-to-extract-tabular-data-from-doc-files-using-python/) Wed Sep 15 2021 9:55 AM
- - 💯 [How to Create Stunning and Interactive Dashboards in Excel?](https://www.analyticsvidhya.com/blog/2021/09/how-to-create-stunning-and-interactive-dashboards-in-excel/) Fri Sep 10 2021 12:56 PM
- - 🌮 [Everything You Need To Know About PandasGUI](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/) Mon Jul 19 2021 10:59 AM
- - 🔥 [Python on Frontend: ML Models Web Interface With Brython](https://www.analyticsvidhya.com/blog/2021/07/python-on-frontend-ml-models-web-interface-with-brython/) Wed Jul 14 2021 9:45 AM
- - 🔥 [Creating Android Machine Learning Apps Using KivyMD](https://www.analyticsvidhya.com/blog/2021/06/creating-android-ml-app-kivymd/) Wed Jun 30 2021 10:53 AM<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Telegram-Triggered Data Pipeline with AWS, Gemini &amp; Databricks](https://levelup.gitconnected.com/telegram-triggered-data-pipeline-with-aws-gemini-databricks-f15f297eb7e7?source=rss-603da2b47f57------2) Fri Jun 05 2026 3:49 PM
+ - 🚀 [Learn dbt for Analytics Engineering](https://levelup.gitconnected.com/learn-dbt-for-analytics-engineering-415ba71805e6?source=rss-603da2b47f57------2) Wed May 06 2026 5:03 PM
+ - 💫 [Interactive SQL playground with Claude &amp; PostgreSQL](https://levelup.gitconnected.com/interactive-sql-playground-with-claude-postgresql-a29cd1c9a513?source=rss-603da2b47f57------2) Mon Jan 19 2026 4:02 PM
+ - 🚀 [Connecting Airflow with dbt and Snowflake](https://blog.dataengineerthings.org/connecting-airflow-with-dbt-and-snowflake-3c1ba89f8b20?source=rss-603da2b47f57------2) Sun Oct 12 2025 7:14 AM
+ - 🔥 [Top 10 features of Snowflake You Must Try](https://levelup.gitconnected.com/top-10-features-of-snowflake-you-must-try-bed6aaaf2e8b?source=rss-603da2b47f57------2) Mon Apr 28 2025 2:37 PM
+ - 🔥 [My Layoff Story: A Journey I Never Expected](https://medium.com/@kaustubhgupta1828/my-layoff-story-a-journey-i-never-expected-16d5687cab7c?source=rss-603da2b47f57------2) Sat Nov 23 2024 11:32 AM
+ - 💯 [Impress Your Neighbor with these 8 Python Libraries](https://levelup.gitconnected.com/impress-your-neighbor-with-these-8-python-libraries-50438116d482?source=rss-603da2b47f57------2) Tue Oct 15 2024 5:44 PM
+ - 🌮 [Neptyne: Bringing Python to Google Sheets](https://levelup.gitconnected.com/neptyne-bringing-python-to-google-sheets-b6bd24b29364?source=rss-603da2b47f57------2) Wed Oct 02 2024 10:38 AM
+ - 🔥 [How to Integrate Google Gemini into Tableau Dashboards?](https://www.analyticsvidhya.com/blog/2024/09/integrate-gemini-into-tableau-dashboards/) Tue Sep 24 2024 11:13 AM
+ - 🔥 [Frontend, Backend &amp; Database Using Python: Anvil](https://levelup.gitconnected.com/frontend-backend-database-using-python-anvil-defd87145c42?source=rss-603da2b47f57------2) Mon Sep 16 2024 2:21 AM<!-- BLOG-POST-LIST:END -->
 
 **Non-tech blogs:** [kaustubhgupta.github.io/blog](https://kaustubhgupta.github.io/blog
 
